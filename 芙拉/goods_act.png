@@ -1,0 +1,1989 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="baidu-site-verification" content="ZDhT9AzCSE" />
+<meta name="360-site-verification" content="b3ec2eb637fb409d5e19c32e51f8f1f8" />
+<meta name="Keywords" content="芙拉维尔 蛋糕预定 蛋糕网上订购送货上门 蛋糕订购 蛋糕定制 蛋糕配送" />
+<meta name="Description" content="芙拉维尔蛋糕网" />
+<title>芙拉维尔蛋糕网-品牌连锁蛋糕网,蛋糕预定,蛋糕网上订购送货上门,全国连锁蛋糕店,附近蛋糕送货上门</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link href="themes/shengxian/style.css" rel="stylesheet" type="text/css" />
+<link href="themes/shengxian/index.css" rel="stylesheet" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS|芙拉维尔蛋糕网-品牌连锁蛋糕网,蛋糕预定,蛋糕网上订购送货上门,全国连锁蛋糕店,附近蛋糕送货上门" href="feed.php" />
+<script type="text/javascript" src="themes/shengxian/js/common.js"></script>
+<script type="text/javascript" src="themes/shengxian/js/index.js"></script>
+<script type="text/javascript" src="js/easydialog.min.js"></script></head>
+<body>
+<script type="text/javascript" src="themes/shengxian/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="themes/shengxian/js/jquery.json.js"></script>
+<script type="text/javascript" src="themes/shengxian/js/jquery-lazyload.js" ></script>
+<script type="text/javascript" src="themes/shengxian/js/transport_jquery.js"></script>
+<script type="text/javascript" src="themes/shengxian/js/utils.js"></script>
+<script type="text/javascript" src="themes/shengxian/js/jquery.SuperSlide.js"></script>
+<script type="text/javascript" src="themes/shengxian/js/lizi_common.js"></script>
+<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script><script type="text/javascript" src="js/jquery.json.js"></script><script type="text/javascript" src="js/jquery-lazyload.js"></script><script type="text/javascript" src="js/transport_jquery.js"></script><script type="text/javascript" src="js/utils.js"></script><script type="text/javascript" src="js/jquery.SuperSlide.js"></script><script type="text/javascript" src="js/lizi_common.js"></script><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?090f45997b7b0cf2271bce729f4c9349";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<div id="header" class="new_header">
+  <div class="site-topbar">
+	<div class="container">
+    	    	<div class="topbar-nav">
+        	            <a href="user.php?act=order_list"  target="_blank"  class="snc-link snc-order">我的订单</a>
+                                </div>
+        	    <ul class="sn-quick-menu">
+	      <li class="sn-mytaobao menu-item j_MyTaobao">
+		<div class="sn-menu">
+		  <a aria-haspopup="menu-2" tabindex="0" class="menu-hd" href="user.php" target="_top" rel="nofollow">我的信息<b></b></a>
+		  <div id="menu-2" class="menu-bd">
+		    <div class="menu-bd-panel" id="myTaobaoPanel">
+		       <a href="user.php?act=order_list" target="_top" rel="nofollow">我的订单</a> 
+		       <a href="user.php?act=address_list" target="_top" rel="nofollow">我的地址</a>
+		       <a href="user.php?act=collection_list" target="_top" rel="nofollow">我的收藏</a>
+		    </div>
+		  </div>
+		</div>
+	      </li>
+	    </ul>
+        <div class="topbar-info J_userInfo" id="ECS_MEMBERZONE">
+        	<a class="link" href="user.php" rel="nofollow">会员登录</a>
+<span class="sep">&nbsp;</span>
+<a class="link" href="user.php?act=register" rel="nofollow">会员注册</a>
+        
+            
+        </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+    
+    <!--
+    function checkSearchForm()
+    {
+        if(document.getElementById('keyword').value)
+        {
+            return true;
+        }
+        else
+        {
+            alert("请输入搜索关键词！");
+            return false;
+        }
+    }
+    -->
+    
+    </script>
+    <div class="logo-search">
+        <a class="logodiv" href="./" title="芙拉维尔"><div class="c-logo"></div></a>
+		<div class="c-slogan">
+		</div>
+		<div class="search-tab" >
+            <div class="search-form">
+	    <form action="search.php" method="get" id="searchForm" name="searchForm" onSubmit="return checkSearchForm()">
+                <div class="so-input-box">
+                	<input type="text" name="keywords" id="keyword" class="soinput" placeholder="请输入关键词" autocomplete="off" />
+			<input type="hidden" value="k1" name="dataBi">
+                </div>
+		<input id="searchBtn" type="submit" class="sobtn sogoods" value="搜 索" />
+		<div class="clear"></div>
+	    </form>
+            </div>
+                        <div class="search-tags"><span>热搜榜：</span>
+				<a href="search.php?keywords=%E5%8D%A1%E9%80%9A%E8%9B%8B%E7%B3%95" rel="nofollow">卡通蛋糕</a>
+				<a href="search.php?keywords=%E6%B0%B4%E6%9E%9C%E8%9B%8B%E7%B3%95" rel="nofollow">水果蛋糕</a>
+				<a href="search.php?keywords=%E7%A5%9D%E5%AF%BF%E8%9B%8B%E7%B3%95" rel="nofollow">祝寿蛋糕</a>
+				<a href="search.php?keywords=%E6%85%95%E6%96%AF%E8%9B%8B%E7%B3%95" rel="nofollow">慕斯蛋糕</a>
+				<a href="search.php?keywords=%E7%BA%A2%E7%8E%AB%E7%91%B0" rel="nofollow">红玫瑰</a>
+		            </div>
+                        </div>
+            <div class="topbar-cart" id="ECS_CARTINFO_TOP">
+        	<a class="cart-mini" href="flow.php">
+	<i class="iconfont">&#xe601;</i>
+    购物车
+    <span class="mini-cart-num J_cartNum" id="hd_cartnum">(0)</span>
+</a>
+<div id="J_miniCartList" class="cart-menu">
+	    <p class="loading_top">购物车中还没有商品，赶紧选购吧！</p>
+     
+</div>
+<script type="text/javascript">
+function deleteCartGoods(rec_id)
+{
+	Ajax.call('delete_cart_goods.php', 'id='+rec_id, deleteCartGoodsResponse_top, 'POST', 'JSON');
+}
+
+/**
+ * 接收返回的信息
+ */
+function deleteCartGoodsResponse_top(res)
+{
+  if (res.error)
+  {
+    alert(res.err_msg);
+  }
+  else
+  {
+      $('.ECS_CARTINFO').html(res.content);
+      $('.cart-panel-content').height($(window).height()-90);
+      $("#ECS_CARTINFO_TOP").html(res.content_top);
+  }
+}
+</script>             </div>
+    </div>
+    <div class="w-nav">
+        <div class="t-nav">
+        	<div class="nav-categorys j-allCate">
+                <div class="catetit">
+                    <h2><a href="javascript:;" rel="nofollow">所有商品分类<i class="c-icon"></i></a></h2>
+                </div>
+                <ul class="cate-item j-extendCate " >
+                    		    <li>
+                        <div class="cateone cate1">
+                        	<a href="category.php?id=634">蛋糕分类<i class="iconfont">&#xe600;</i></a>
+			        <div class="childer_hide"> 
+			        				  <a href="category.php?id=681" target="_blank">按用途选</a>     
+								  <a href="category.php?id=671" target="_blank">按对象选</a>     
+								  <a href="category.php?id=653" target="_blank">按造型</a>     
+								  <a href="category.php?id=678" target="_blank">按材料选</a>     
+								</div>  
+                        </div>
+                        <div class="catetwo"  style="background:url(data/cat_bg/1515722410879773965.jpg) left bottom no-repeat #fff;">
+			  <div class="topMap clearfix">
+			    <div class="subCat clearfix">
+			      			      <dl>
+				<dt><h3><a href="category.php?id=681">按用途选</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=682">生日蛋糕</a>
+				      					<a href="category.php?id=911">祝寿蛋糕</a>
+				      					<a href="category.php?id=912">爱情蛋糕</a>
+				      					<a href="category.php?id=913">婚庆蛋糕</a>
+				      					<a href="category.php?id=914">公司庆典</a>
+				      					<a href="category.php?id=1018">创意蛋糕</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=671">按对象选</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=673">送朋友</a>
+				      					<a href="category.php?id=917">送恋人</a>
+				      					<a href="category.php?id=675">送长辈</a>
+				      					<a href="category.php?id=916">送儿童</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=653">按造型</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=654">圆形蛋糕</a>
+				      					<a href="category.php?id=655">心形蛋糕</a>
+				      					<a href="category.php?id=656">方形蛋糕</a>
+				      					<a href="category.php?id=918">双层蛋糕</a>
+				      					<a href="category.php?id=919">三层蛋糕</a>
+				      					<a href="category.php?id=920">多层蛋糕</a>
+				      					<a href="category.php?id=921">汽车蛋糕</a>
+				      					<a href="category.php?id=922">生肖蛋糕</a>
+				      					<a href="category.php?id=923">芭比蛋糕</a>
+				      					<a href="category.php?id=924">卡通蛋糕</a>
+				      					<a href="category.php?id=925">麻将蛋糕</a>
+				      					<a href="category.php?id=926">情趣蛋糕</a>
+				      					<a href="category.php?id=927">数码蛋糕</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=678">按材料选</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=679">水果蛋糕</a>
+				      					<a href="category.php?id=928">欧式蛋糕</a>
+				      					<a href="category.php?id=929">巧克力蛋糕</a>
+				      					<a href="category.php?id=930">慕斯蛋糕</a>
+				      					<a href="category.php?id=931">黑森林蛋糕</a>
+				      					<a href="category.php?id=932">芝士蛋糕</a>
+				      					<a href="category.php?id=933">彩虹蛋糕</a>
+				      					<a href="category.php?id=934">提拉米苏</a>
+				      					<a href="category.php?id=935">鲜奶蛋糕</a>
+				      					<a href="category.php?id=936">抹茶蛋糕</a>
+				      					<a href="category.php?id=937">冰淇淋蛋糕</a>
+				      					<a href="category.php?id=938">无糖蛋糕</a>
+				      					<a href="category.php?id=939">千层蛋糕</a>
+				      					<a href="category.php?id=940">翻糖蛋糕</a>
+				      					<a href="category.php?id=941">乳脂蛋糕</a>
+				      				    </dd>
+			      </dl>
+			      			    </div>
+			  </div>
+                        </div>
+                    </li>
+		    		    <li>
+                        <div class="cateone cate2">
+                        	<a href="category.php?id=683">鲜花分类<i class="iconfont">&#xe600;</i></a>
+			        <div class="childer_hide"> 
+			        				  <a href="category.php?id=684" target="_blank">鲜花造型</a>     
+								  <a href="category.php?id=719" target="_blank">按花材</a>     
+								  <a href="category.php?id=716" target="_blank">按用途</a>     
+								  <a href="category.php?id=710" target="_blank">按对象</a>     
+								  <a href="category.php?id=725" target="_blank">花材组合</a>     
+								  <a href="category.php?id=702" target="_blank">按枝数</a>     
+								</div>  
+                        </div>
+                        <div class="catetwo"  style="background:url(data/cat_bg/1515722470450997319.jpg) left bottom no-repeat #fff;">
+			  <div class="topMap clearfix">
+			    <div class="subCat clearfix">
+			      			      <dl>
+				<dt><h3><a href="category.php?id=684">鲜花造型</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=943">圆形花束</a>
+				      					<a href="category.php?id=944">扇形花束</a>
+				      					<a href="category.php?id=945">方形礼盒</a>
+				      					<a href="category.php?id=946">心形礼盒</a>
+				      					<a href="category.php?id=947">手提花篮</a>
+				      					<a href="category.php?id=949">心形花束</a>
+				      					<a href="category.php?id=950">手捧花</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=719">按花材</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=951">红玫瑰</a>
+				      					<a href="category.php?id=952">粉玫瑰</a>
+				      					<a href="category.php?id=953">白玫瑰</a>
+				      					<a href="category.php?id=954">蓝色妖姬</a>
+				      					<a href="category.php?id=955">香槟玫瑰</a>
+				      					<a href="category.php?id=956">康乃馨</a>
+				      					<a href="category.php?id=957">百合</a>
+				      					<a href="category.php?id=958">紫玫瑰</a>
+				      					<a href="category.php?id=959">黄玫瑰</a>
+				      					<a href="category.php?id=960">扶郎花</a>
+				      					<a href="category.php?id=961">向日葵</a>
+				      					<a href="category.php?id=962">满天星</a>
+				      					<a href="category.php?id=963">永生花</a>
+				      					<a href="category.php?id=1020">勿忘我</a>
+				      					<a href="category.php?id=1021">其他花材</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=716">按用途</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=964">生日祝福</a>
+				      					<a href="category.php?id=965">爱情鲜花</a>
+				      					<a href="category.php?id=966">友谊送花</a>
+				      					<a href="category.php?id=967">祝寿送花</a>
+				      					<a href="category.php?id=968">开业祝福</a>
+				      					<a href="category.php?id=969">婚礼祝福</a>
+				      					<a href="category.php?id=970">道歉鲜花</a>
+				      					<a href="category.php?id=971">商务用花</a>
+				      					<a href="category.php?id=972">慰问关怀</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=710">按对象</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=973">送朋友</a>
+				      					<a href="category.php?id=974">送同事</a>
+				      					<a href="category.php?id=975">送领导</a>
+				      					<a href="category.php?id=976">送恋人</a>
+				      					<a href="category.php?id=977">送长辈</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=725">花材组合</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=979">玫瑰+百合</a>
+				      					<a href="category.php?id=981">康乃馨+百合</a>
+				      					<a href="category.php?id=978">多色玫瑰组合</a>
+				      					<a href="category.php?id=980">其他花材组合</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=702">按枝数</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=982">9枝</a>
+				      					<a href="category.php?id=983">11枝</a>
+				      					<a href="category.php?id=984">12枝</a>
+				      					<a href="category.php?id=985">19枝</a>
+				      					<a href="category.php?id=986">21枝</a>
+				      					<a href="category.php?id=987">33枝</a>
+				      					<a href="category.php?id=988">50枝</a>
+				      					<a href="category.php?id=989">66枝</a>
+				      					<a href="category.php?id=990">99枝</a>
+				      					<a href="category.php?id=991">365枝</a>
+				      					<a href="category.php?id=992">999枝</a>
+				      					<a href="category.php?id=1019">其他枝</a>
+				      				    </dd>
+			      </dl>
+			      			    </div>
+			  </div>
+                        </div>
+                    </li>
+		    		    <li>
+                        <div class="cateone cate3">
+                        	<a href="category.php?id=754">浪漫组合<i class="iconfont">&#xe600;</i></a>
+			        <div class="childer_hide"> 
+			        				  <a href="category.php?id=762" target="_blank">玫瑰+蛋糕</a>     
+								  <a href="category.php?id=767" target="_blank">百合+蛋糕</a>     
+								  <a href="category.php?id=755" target="_blank">康乃馨蛋糕</a>     
+								  <a href="category.php?id=994" target="_blank">混搭组合</a>     
+								</div>  
+                        </div>
+                        <div class="catetwo"  style="background:url(data/cat_bg/1515722510967673654.jpg) left bottom no-repeat #fff;">
+			  <div class="topMap clearfix">
+			    <div class="subCat clearfix">
+			      			      <dl>
+				<dt><h3><a href="category.php?id=762">玫瑰+蛋糕</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=993">红玫瑰+蛋糕</a>
+				      					<a href="category.php?id=995">粉玫瑰+蛋糕</a>
+				      					<a href="category.php?id=996">白玫瑰+蛋糕</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=767">百合+蛋糕</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=997">白百合+蛋糕</a>
+				      					<a href="category.php?id=998">粉百合+蛋糕</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=755">康乃馨蛋糕</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=999">红康乃馨+蛋糕</a>
+				      					<a href="category.php?id=1000">粉康乃馨+蛋糕</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=994">混搭组合</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=1001">玫瑰百合+蛋糕</a>
+				      					<a href="category.php?id=1002">康乃馨百合+蛋糕</a>
+				      				    </dd>
+			      </dl>
+			      			    </div>
+			  </div>
+                        </div>
+                    </li>
+		    		    <li>
+                        <div class="cateone cate4">
+                        	<a href="category.php?id=837">公仔礼品<i class="iconfont">&#xe600;</i></a>
+			        <div class="childer_hide"> 
+			        				  <a href="category.php?id=850" target="_blank">小熊公仔</a>     
+								  <a href="category.php?id=857" target="_blank">小狗公仔</a>     
+								  <a href="category.php?id=838" target="_blank">兔子公仔</a>     
+								  <a href="category.php?id=1022" target="_blank">小猴公仔</a>     
+								</div>  
+                        </div>
+                        <div class="catetwo"  style="background:url(data/cat_bg/1515722569941788087.jpg) left bottom no-repeat #fff;">
+			  <div class="topMap clearfix">
+			    <div class="subCat clearfix">
+			      			      <dl>
+				<dt><h3><a href="category.php?id=850">小熊公仔</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=1003">爱心熊</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=857">小狗公仔</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=1004">大头狗</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=838">兔子公仔</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=1005">米菲兔</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=1022">小猴公仔</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=1023">嘻哈猴</a>
+				      				    </dd>
+			      </dl>
+			      			    </div>
+			  </div>
+                        </div>
+                    </li>
+		    		    <li>
+                        <div class="cateone cate5">
+                        	<a href="category.php?id=732">巧克力<i class="iconfont">&#xe600;</i></a>
+			        <div class="childer_hide"> 
+			        				  <a href="category.php?id=733" target="_blank">费列罗</a>     
+								  <a href="category.php?id=747" target="_blank">德芙</a>     
+								</div>  
+                        </div>
+                        <div class="catetwo"  style="background:url(data/cat_bg/1515722597265135094.jpg) left bottom no-repeat #fff;">
+			  <div class="topMap clearfix">
+			    <div class="subCat clearfix">
+			      			      <dl>
+				<dt><h3><a href="category.php?id=733">费列罗</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=1006">30粒套装</a>
+				      					<a href="category.php?id=1007">48粒套装</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=747">德芙</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=1008">心语礼盒</a>
+				      					<a href="category.php?id=1009">心印礼盒</a>
+				      					<a href="category.php?id=1010">碗装290g</a>
+				      				    </dd>
+			      </dl>
+			      			    </div>
+			  </div>
+                        </div>
+                    </li>
+		    		    <li>
+                        <div class="cateone cate6">
+                        	<a href="category.php?id=900">卡通花束<i class="iconfont">&#xe600;</i></a>
+			        <div class="childer_hide"> 
+			        				  <a href="category.php?id=1013" target="_blank">按种类</a>     
+								  <a href="category.php?id=1014" target="_blank">按个数</a>     
+								</div>  
+                        </div>
+                        <div class="catetwo"  style="background:url(data/cat_bg/1515722640205606208.jpg) left bottom no-repeat #fff;">
+			  <div class="topMap clearfix">
+			    <div class="subCat clearfix">
+			      			      <dl>
+				<dt><h3><a href="category.php?id=1013">按种类</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=1015">小猪猪</a>
+				      					<a href="category.php?id=1026">米菲兔</a>
+				      					<a href="category.php?id=1027">关节熊</a>
+				      				    </dd>
+			      </dl>
+			      			      <dl>
+				<dt><h3><a href="category.php?id=1014">按个数</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=1017">11只</a>
+				      					<a href="category.php?id=1025">8只</a>
+				      				    </dd>
+			      </dl>
+			      			    </div>
+			  </div>
+                        </div>
+                    </li>
+		    		    <li>
+                        <div class="cateone cate7">
+                        	<a href="category.php?id=903">开业花篮<i class="iconfont">&#xe600;</i></a>
+			        <div class="childer_hide"> 
+			        				  <a href="category.php?id=905" target="_blank">按种类</a>     
+								</div>  
+                        </div>
+                        <div class="catetwo"  style="background:url(data/cat_bg/1515722682199980227.jpg) left bottom no-repeat #fff;">
+			  <div class="topMap clearfix">
+			    <div class="subCat clearfix">
+			      			      <dl>
+				<dt><h3><a href="category.php?id=905">按种类</a></h3></dt>
+				    <dd class="goods-class">
+				      					<a href="category.php?id=1011">单层花篮</a>
+				      					<a href="category.php?id=1012">双层花篮</a>
+				      				    </dd>
+			      </dl>
+			      			    </div>
+			  </div>
+                        </div>
+                    </li>
+		                        </ul>
+            </div>
+            <ul class="nav-items">
+	            	<li>
+	            		<a href="./"  class="cur" rel="nofollow">首页</a>
+	            	</li>
+			            	<li>
+	            		<a href="category.php?id=679"    rel="nofollow">水果蛋糕</a>
+	            	</li>
+			            	<li>
+	            		<a href="category.php?id=911" target="_blank"    rel="nofollow">祝寿蛋糕</a>
+	            	</li>
+			            	<li>
+	            		<a href="category.php?id=924" target="_blank"    rel="nofollow">卡通蛋糕</a>
+	            	</li>
+			            	<li>
+	            		<a href="category.php?id=754" target="_blank"    rel="nofollow">浪漫组合</a>
+	            	</li>
+			            	<li>
+	            		<a href="category.php?id=918"    rel="nofollow">双层蛋糕</a>
+	            	</li>
+			            	<li>
+	            		<a href="category.php?id=683" target="_blank"    rel="nofollow">鲜花分类</a>
+	            	</li>
+		            </ul>
+        </div>    
+    </div>
+</div>
+<script type="text/javascript" src="themes/shengxian/js/lizi_index.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	$(".j-hotTab").find("li:first").addClass('on');
+	$(".index-promotion-up").click(function(){
+		var num=$(this).parent().parent().find(".textgt").val();
+		var num_p=parseInt(num);
+		num_p=num_p+1;
+		$(this).parent().parent().find(".textgt").val(num_p);
+		});
+});
+</script>
+<div class="index-banner">
+    <div class="index-slide" id="index-slide">
+	
+	    <ul class="slidepic">
+        	  <li style="background-image: url(data/afficheimg/20180322lowqfr.jpg);"> <a target="_blank" href="https://www.fodangao.com/goods.php?id=376" ></a> </li>
+		  <li style="background-image: url(data/afficheimg/20180308ceivui.jpg);"> <a target="_blank" href="https://www.fodangao.com/goods.php?id=541" ></a> </li>
+		  <li style="background-image: url(data/afficheimg/20180614zfnloz.jpg);"> <a target="_blank" href="https://www.fodangao.com/goods.php?id=524" ></a> </li>
+		  <li style="background-image: url(data/afficheimg/20180112vcxttz.jpg);"> <a target="_blank" href="http://www.fodangao.com/goods.php?id=347" ></a> </li>
+		  <li style="background-image: url(data/afficheimg/20180112agqmgy.jpg);"> <a target="_blank" href="http://www.fodangao.com/category.php?id=924" ></a> </li>
+	    </ul>
+    <div class="num">
+    	<ul>
+        	  <li></li>
+		  <li></li>
+		  <li></li>
+		  <li></li>
+		  <li></li>
+		</ul>
+    </div>
+ 
+	 
+    </div>
+</div>
+<script type="text/javascript">
+   var btn_buy = "购买";
+   var is_cancel = "取消";
+   var select_spe = "请选择商品属性";
+</script>
+   <div class="recommendmainInfo">
+		<script>
+		<!--
+		/*第一种形式 第二种形式 更换显示样式*/
+		function setTabCatrecommend(index){
+			var brand_cat_list = document.getElementById("probar");
+			var branddiv = brand_cat_list.getElementsByTagName('li');
+			//*
+			for(i=1;i<=branddiv.length;i++){
+				var con = document.getElementById("porcom_"+i);
+				con.style.display = index==i ? "block":"none";
+				
+				var a_brand=document.getElementById("pcur_"+i);
+				a_brand.className = index==i ? " pcur":" ";
+			}
+		}
+		//-->
+		</script> 
+			<div class="pro">
+                <div class="probar">
+                    <ul id="probar">    
+                        <li id="pcur_1" class="pcur1 pcur" onMouseOver="setTabCatrecommend(1)"><a>新品上市</a></li>
+						<li id="pcur_2" class="pcur2" onMouseOver="setTabCatrecommend(2)"><a>精品推荐</a></li>
+						<li id="pcur_3" class="pcur3" onMouseOver="setTabCatrecommend(3)"><a>热销排行</a></li>
+                    </ul>
+                </div>
+			</div>
+                <div style="display: block;" id="porcom_1" class="pro_con">
+						<div class="madden-pro">
+		<ul class="clearfix">
+			
+			<li>
+				<a href="goods.php?id=481" title="欧式蛋糕|清凉夏日" class="imgChange" target="_blank">
+					<img src="images/201805/thumb_img/481_thumb_G_1527722366097.jpg" title="欧式蛋糕|清凉夏日" alt="欧式蛋糕|清凉夏日">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=481" title="欧式蛋糕|清凉夏日" target="_blank">欧式蛋糕|清凉夏日</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥168</font></span>
+						<a target="_blank" href="goods.php?id=481"> 去看看</a>
+					</div>
+				</div>
+			</li>
+			
+			<li>
+				<a href="goods.php?id=702" title="心形蛋糕|心相约" class="imgChange" target="_blank">
+					<img src="images/201801/thumb_img/702_thumb_G_1516327663240.jpg" title="心形蛋糕|心相约" alt="心形蛋糕|心相约">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=702" title="心形蛋糕|心相约" target="_blank">心形蛋糕|心相约</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥165</font></span>
+						<a target="_blank" href="goods.php?id=702"> 去看看</a>
+					</div>
+				</div>
+			</li>
+			
+			<li>
+				<a href="goods.php?id=905" title="网红火烈鸟  预定款" class="imgChange" target="_blank">
+					<img src="images/201806/thumb_img/905_thumb_G_1528508716986.jpg" title="网红火烈鸟  预定款" alt="网红火烈鸟  预定款">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=905" title="网红火烈鸟  预定款" target="_blank">网红火烈鸟  预定款</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥196</font></span>
+						<a target="_blank" href="goods.php?id=905"> 去看看</a>
+					</div>
+				</div>
+			</li>
+			
+			<li>
+				<a href="goods.php?id=368" title="水果蛋糕|风雨无阻" class="imgChange" target="_blank">
+					<img src="images/201610/thumb_img/368_thumb_G_1476408971458.jpg" title="水果蛋糕|风雨无阻" alt="水果蛋糕|风雨无阻">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=368" title="水果蛋糕|风雨无阻" target="_blank">水果蛋糕|风雨无阻</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥168</font></span>
+						<a target="_blank" href="goods.php?id=368"> 去看看</a>
+					</div>
+				</div>
+			</li>
+			
+			<li>
+				<a href="goods.php?id=830" title="方形蛋糕|灵犀相通" class="imgChange" target="_blank">
+					<img src="images/201612/thumb_img/830_thumb_G_1480615844594.jpg" title="方形蛋糕|灵犀相通" alt="方形蛋糕|灵犀相通">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=830" title="方形蛋糕|灵犀相通" target="_blank">方形蛋糕|灵犀相通</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥153</font></span>
+						<a target="_blank" href="goods.php?id=830"> 去看看</a>
+					</div>
+				</div>
+			</li>
+				</ul>
+	</div>
+                </div>
+				<div style="display: none;" id="porcom_2" class="pro_con">
+						<div class="madden-pro">
+		<ul class="clearfix">
+			
+			<li>
+				<a href="goods.php?id=347" title="数码蛋糕|欢声笑语" class="imgChange" target="_blank">
+					<img src="images/201610/thumb_img/347_thumb_G_1476381432989.jpg" title="数码蛋糕|欢声笑语" alt="数码蛋糕|欢声笑语">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=347" title="数码蛋糕|欢声笑语" target="_blank">数码蛋糕|欢声笑语</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥258</font></span>
+						<a target="_blank" href="goods.php?id=347"> 去看看</a>
+					</div>
+				</div>
+			</li>
+			
+			<li>
+				<a href="goods.php?id=862" title="巧克力水果蛋糕|快乐相伴" class="imgChange" target="_blank">
+					<img src="images/201806/thumb_img/862_thumb_G_1529781067139.jpg" title="巧克力水果蛋糕|快乐相伴" alt="巧克力水果蛋糕|快乐相伴">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=862" title="巧克力水果蛋糕|快乐相伴" target="_blank">巧克力水果蛋糕|快乐相伴</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥168</font></span>
+						<a target="_blank" href="goods.php?id=862"> 去看看</a>
+					</div>
+				</div>
+			</li>
+			
+			<li>
+				<a href="goods.php?id=388" title="情趣蛋糕|幸福爱情" class="imgChange" target="_blank">
+					<img src="images/201609/thumb_img/388_thumb_G_1473636671441.jpg" title="情趣蛋糕|幸福爱情" alt="情趣蛋糕|幸福爱情">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=388" title="情趣蛋糕|幸福爱情" target="_blank">情趣蛋糕|幸福爱情</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥175</font></span>
+						<a target="_blank" href="goods.php?id=388"> 去看看</a>
+					</div>
+				</div>
+			</li>
+			
+			<li>
+				<a href="goods.php?id=364" title="水果蛋糕|一见倾心" class="imgChange" target="_blank">
+					<img src="images/201610/thumb_img/364_thumb_G_1476407680892.jpg" title="水果蛋糕|一见倾心" alt="水果蛋糕|一见倾心">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=364" title="水果蛋糕|一见倾心" target="_blank">水果蛋糕|一见倾心</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥168</font></span>
+						<a target="_blank" href="goods.php?id=364"> 去看看</a>
+					</div>
+				</div>
+			</li>
+			
+			<li>
+				<a href="goods.php?id=733" title="卡通蛋糕|海绵宝宝一" class="imgChange" target="_blank">
+					<img src="images/201611/thumb_img/733_thumb_G_1478557631608.jpg" title="卡通蛋糕|海绵宝宝一" alt="卡通蛋糕|海绵宝宝一">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=733" title="卡通蛋糕|海绵宝宝一" target="_blank">卡通蛋糕|海绵宝宝一</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥168</font></span>
+						<a target="_blank" href="goods.php?id=733"> 去看看</a>
+					</div>
+				</div>
+			</li>
+				</ul>
+	</div>
+                </div>
+				<div style="display: none;" id="porcom_3" class="pro_con">
+						<div class="madden-pro">
+		<ul class="clearfix">
+			
+			<li>
+				<a href="goods.php?id=448" title="水果蛋糕|圆满生活" class="imgChange" target="_blank">
+					<img src="images/201806/thumb_img/448_thumb_G_1529780989936.jpg" title="水果蛋糕|圆满生活" alt="水果蛋糕|圆满生活">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=448" title="水果蛋糕|圆满生活" target="_blank">水果蛋糕|圆满生活</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥148</font></span>
+						<a target="_blank" href="goods.php?id=448"> 去看看</a>
+					</div>
+				</div>
+			</li>
+			
+			<li>
+				<a href="goods.php?id=376" title="水果蛋糕|爱的果园" class="imgChange" target="_blank">
+					<img src="images/201802/thumb_img/376_thumb_G_1519779863403.jpg" title="水果蛋糕|爱的果园" alt="水果蛋糕|爱的果园">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=376" title="水果蛋糕|爱的果园" target="_blank">水果蛋糕|爱的果园</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥156</font></span>
+						<a target="_blank" href="goods.php?id=376"> 去看看</a>
+					</div>
+				</div>
+			</li>
+			
+			<li>
+				<a href="goods.php?id=541" title="水果蛋糕|水果传奇" class="imgChange" target="_blank">
+					<img src="images/201806/thumb_img/541_thumb_G_1529612487125.jpg" title="水果蛋糕|水果传奇" alt="水果蛋糕|水果传奇">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=541" title="水果蛋糕|水果传奇" target="_blank">水果蛋糕|水果传奇</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥158</font></span>
+						<a target="_blank" href="goods.php?id=541"> 去看看</a>
+					</div>
+				</div>
+			</li>
+			
+			<li>
+				<a href="goods.php?id=366" title="欧式蛋糕|回味无穷 新鲜水果 新鲜配送" class="imgChange" target="_blank">
+					<img src="images/201806/thumb_img/366_thumb_G_1529612450352.jpg" title="欧式蛋糕|回味无穷 新鲜水果 新鲜配送" alt="欧式蛋糕|回味无穷 新鲜水果 新鲜配送">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=366" title="欧式蛋糕|回味无穷 新鲜水果 新鲜配送" target="_blank">欧式蛋糕|回味无穷 新鲜水果 新鲜配送</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥158</font></span>
+						<a target="_blank" href="goods.php?id=366"> 去看看</a>
+					</div>
+				</div>
+			</li>
+			
+			<li>
+				<a href="goods.php?id=342" title="方形蛋糕|深厚情意" class="imgChange" target="_blank">
+					<img src="images/201806/thumb_img/342_thumb_G_1530068082651.jpg" title="方形蛋糕|深厚情意" alt="方形蛋糕|深厚情意">
+				</a>
+				<div class="inforBox">
+					<p class="txtBt"><a href="goods.php?id=342" title="方形蛋糕|深厚情意" target="_blank">方形蛋糕|深厚情意</a></p>
+					<div class="buy-btn ">
+						<span class="tj"><font>￥168</font></span>
+						<a target="_blank" href="goods.php?id=342"> 去看看</a>
+					</div>
+				</div>
+			</li>
+				</ul>
+	</div>
+                </div>
+   </div>
+<div class="series_list"> 
+<div class="cn-laytit">
+	<div class="title">
+		<h3 class="floor_h1">1F 蛋糕分类</h3>
+	</div>
+</div>
+<div class="cn-fruit cn-fruit-1">
+  <div class="banner">
+        		<div class="ban">
+		  <a href="affiche.php?ad_id=4&uri=" target="_blank"><img data-original="data/afficheimg/1515718229552162727.png" src="data/afficheimg/1515718229552162727.png" class="loading"></a>
+		</div>
+      </div>
+  <div class="goods">
+    <ul>
+          <li id="li_481">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=481">
+              <img data-original="images/201805/thumb_img/481_thumb_G_1527722366097.jpg" src="images/201805/thumb_img/481_thumb_G_1527722366097.jpg" class="loading pic_img_481" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=481">欧式蛋糕|清凉夏日</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥168</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(481)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_448">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=448">
+              <img data-original="images/201806/thumb_img/448_thumb_G_1529780989936.jpg" src="images/201806/thumb_img/448_thumb_G_1529780989936.jpg" class="loading pic_img_448" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=448">水果蛋糕|圆满生活</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥148</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(448)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_376">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=376">
+              <img data-original="images/201802/thumb_img/376_thumb_G_1519779863403.jpg" src="images/201802/thumb_img/376_thumb_G_1519779863403.jpg" class="loading pic_img_376" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=376">水果蛋糕|爱的果园</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥156</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(376)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_336">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=336">
+              <img data-original="images/201609/thumb_img/336_thumb_G_1474066472350.jpg" src="images/201609/thumb_img/336_thumb_G_1474066472350.jpg" class="loading pic_img_336" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=336">水果蛋糕|水果情</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥168</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(336)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_885">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=885">
+              <img data-original="images/201802/thumb_img/885_thumb_G_1517687525368.jpg" src="images/201802/thumb_img/885_thumb_G_1517687525368.jpg" class="loading pic_img_885" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=885">卡通蛋糕|小猪佩奇</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥156</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(885)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_541">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=541">
+              <img data-original="images/201806/thumb_img/541_thumb_G_1529612487125.jpg" src="images/201806/thumb_img/541_thumb_G_1529612487125.jpg" class="loading pic_img_541" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=541">水果蛋糕|水果传奇</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥158</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(541)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_366">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=366">
+              <img data-original="images/201806/thumb_img/366_thumb_G_1529612450352.jpg" src="images/201806/thumb_img/366_thumb_G_1529612450352.jpg" class="loading pic_img_366" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=366">欧式蛋糕|回味无穷 新鲜...</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥158</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(366)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_905">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=905">
+              <img data-original="images/201806/thumb_img/905_thumb_G_1528508716986.jpg" src="images/201806/thumb_img/905_thumb_G_1528508716986.jpg" class="loading pic_img_905" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=905">网红火烈鸟  预定款</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥196</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(905)">加入购物车</a></div>
+        </div>
+      </li>
+        </ul>
+  </div>
+  <div class="banner2">
+  	
+	
+	<div class="child_cat_list child_cat_list_1">
+	
+					 
+				<a href="category.php?id=681" title="按用途选" target="_blank" >按用途选</a>
+								 
+				<a href="category.php?id=671" title="按对象选" target="_blank" >按对象选</a>
+								 
+				<a href="category.php?id=653" title="按造型" target="_blank" >按造型</a>
+								 
+				<a href="category.php?id=678" title="按材料选" target="_blank" >按材料选</a>
+						
+	</div>
+  	
+        		<div class="ban">
+		  <a href="affiche.php?ad_id=1&uri=" target="_blank"><img data-original="data/afficheimg/1515718214445341881.jpg" src="data/afficheimg/1515718214445341881.jpg" class="loading" ></a>
+		</div>
+    	
+  </div>
+</div>
+<div class="cn-laytit">
+	<div class="title">
+		<h3 class="floor_h2">2F 生日蛋糕</h3>
+	</div>
+</div>
+<div class="cn-fruit cn-fruit-2">
+  <div class="banner">
+        		<div class="ban">
+		  <a href="affiche.php?ad_id=5&uri=" target="_blank"><img data-original="data/afficheimg/1515718174777395342.png" src="data/afficheimg/1515718174777395342.png" class="loading"></a>
+		</div>
+      </div>
+  <div class="goods">
+    <ul>
+          <li id="li_481">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=481">
+              <img data-original="images/201805/thumb_img/481_thumb_G_1527722366097.jpg" src="images/201805/thumb_img/481_thumb_G_1527722366097.jpg" class="loading pic_img_481" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=481">欧式蛋糕|清凉夏日</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥168</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(481)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_448">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=448">
+              <img data-original="images/201806/thumb_img/448_thumb_G_1529780989936.jpg" src="images/201806/thumb_img/448_thumb_G_1529780989936.jpg" class="loading pic_img_448" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=448">水果蛋糕|圆满生活</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥148</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(448)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_376">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=376">
+              <img data-original="images/201802/thumb_img/376_thumb_G_1519779863403.jpg" src="images/201802/thumb_img/376_thumb_G_1519779863403.jpg" class="loading pic_img_376" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=376">水果蛋糕|爱的果园</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥156</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(376)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_336">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=336">
+              <img data-original="images/201609/thumb_img/336_thumb_G_1474066472350.jpg" src="images/201609/thumb_img/336_thumb_G_1474066472350.jpg" class="loading pic_img_336" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=336">水果蛋糕|水果情</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥168</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(336)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_541">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=541">
+              <img data-original="images/201806/thumb_img/541_thumb_G_1529612487125.jpg" src="images/201806/thumb_img/541_thumb_G_1529612487125.jpg" class="loading pic_img_541" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=541">水果蛋糕|水果传奇</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥158</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(541)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_366">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=366">
+              <img data-original="images/201806/thumb_img/366_thumb_G_1529612450352.jpg" src="images/201806/thumb_img/366_thumb_G_1529612450352.jpg" class="loading pic_img_366" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=366">欧式蛋糕|回味无穷 新鲜...</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥158</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(366)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_830">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=830">
+              <img data-original="images/201612/thumb_img/830_thumb_G_1480615844594.jpg" src="images/201612/thumb_img/830_thumb_G_1480615844594.jpg" class="loading pic_img_830" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=830">方形蛋糕|灵犀相通</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥153</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(830)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_767">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=767">
+              <img data-original="images/201611/thumb_img/767_thumb_G_1479320320732.jpg" src="images/201611/thumb_img/767_thumb_G_1479320320732.jpg" class="loading pic_img_767" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=767">快乐世界杯</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥178</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(767)">加入购物车</a></div>
+        </div>
+      </li>
+        </ul>
+  </div>
+  <div class="banner2">
+  	
+	
+	<div class="child_cat_list child_cat_list_2">
+	
+			
+	</div>
+  	
+        		<div class="ban">
+		  <a href="affiche.php?ad_id=21&uri=" target="_blank"><img data-original="data/afficheimg/1515718187032002516.jpg" src="data/afficheimg/1515718187032002516.jpg" class="loading" ></a>
+		</div>
+    	
+  </div>
+</div>
+<div class="cn-laytit">
+	<div class="title">
+		<h3 class="floor_h3">3F 水果蛋糕</h3>
+	</div>
+</div>
+<div class="cn-fruit cn-fruit-3">
+  <div class="banner">
+        		<div class="ban">
+		  <a href="affiche.php?ad_id=9&uri=" target="_blank"><img data-original="data/afficheimg/1515718134960993105.png" src="data/afficheimg/1515718134960993105.png" class="loading"></a>
+		</div>
+      </div>
+  <div class="goods">
+    <ul>
+          <li id="li_481">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=481">
+              <img data-original="images/201805/thumb_img/481_thumb_G_1527722366097.jpg" src="images/201805/thumb_img/481_thumb_G_1527722366097.jpg" class="loading pic_img_481" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=481">欧式蛋糕|清凉夏日</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥168</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(481)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_448">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=448">
+              <img data-original="images/201806/thumb_img/448_thumb_G_1529780989936.jpg" src="images/201806/thumb_img/448_thumb_G_1529780989936.jpg" class="loading pic_img_448" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=448">水果蛋糕|圆满生活</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥148</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(448)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_376">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=376">
+              <img data-original="images/201802/thumb_img/376_thumb_G_1519779863403.jpg" src="images/201802/thumb_img/376_thumb_G_1519779863403.jpg" class="loading pic_img_376" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=376">水果蛋糕|爱的果园</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥156</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(376)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_336">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=336">
+              <img data-original="images/201609/thumb_img/336_thumb_G_1474066472350.jpg" src="images/201609/thumb_img/336_thumb_G_1474066472350.jpg" class="loading pic_img_336" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=336">水果蛋糕|水果情</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥168</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(336)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_366">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=366">
+              <img data-original="images/201806/thumb_img/366_thumb_G_1529612450352.jpg" src="images/201806/thumb_img/366_thumb_G_1529612450352.jpg" class="loading pic_img_366" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=366">欧式蛋糕|回味无穷 新鲜...</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥158</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(366)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_830">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=830">
+              <img data-original="images/201612/thumb_img/830_thumb_G_1480615844594.jpg" src="images/201612/thumb_img/830_thumb_G_1480615844594.jpg" class="loading pic_img_830" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=830">方形蛋糕|灵犀相通</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥153</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(830)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_702">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=702">
+              <img data-original="images/201801/thumb_img/702_thumb_G_1516327663240.jpg" src="images/201801/thumb_img/702_thumb_G_1516327663240.jpg" class="loading pic_img_702" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=702">心形蛋糕|心相约</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥165</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(702)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_524">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=524">
+              <img data-original="images/201806/thumb_img/524_thumb_G_1527816729235.jpg" src="images/201806/thumb_img/524_thumb_G_1527816729235.jpg" class="loading pic_img_524" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=524">欧式蛋糕|简单的爱</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥170</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(524)">加入购物车</a></div>
+        </div>
+      </li>
+        </ul>
+  </div>
+  <div class="banner2">
+  	
+	
+	<div class="child_cat_list child_cat_list_3">
+	
+			
+	</div>
+  	
+        		<div class="ban">
+		  <a href="affiche.php?ad_id=12&uri=" target="_blank"><img data-original="data/afficheimg/1515718143584657184.jpg" src="data/afficheimg/1515718143584657184.jpg" class="loading" ></a>
+		</div>
+    	
+  </div>
+</div>
+<div class="cn-laytit">
+	<div class="title">
+		<h3 class="floor_h4">4F 鲜花分类</h3>
+	</div>
+</div>
+<div class="cn-fruit cn-fruit-4">
+  <div class="banner">
+        		<div class="ban">
+		  <a href="affiche.php?ad_id=15&uri=" target="_blank"><img data-original="data/afficheimg/1515718097549708882.png" src="data/afficheimg/1515718097549708882.png" class="loading"></a>
+		</div>
+      </div>
+  <div class="goods">
+    <ul>
+          <li id="li_467">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=467">
+              <img data-original="images/201609/thumb_img/467_thumb_G_1474311569428.jpg" src="images/201609/thumb_img/467_thumb_G_1474311569428.jpg" class="loading pic_img_467" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=467">19朵混色 爱你一生</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥268</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(467)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_819">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=819">
+              <img data-original="images/201611/thumb_img/819_thumb_G_1480363358286.jpg" src="images/201611/thumb_img/819_thumb_G_1480363358286.jpg" class="loading pic_img_819" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=819">99朵 偏爱</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥688</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(819)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_877">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=877">
+              <img data-original="images/201802/thumb_img/877_thumb_G_1519582618075.jpg" src="images/201802/thumb_img/877_thumb_G_1519582618075.jpg" class="loading pic_img_877" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=877">33朵 挚爱永恒</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥319</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(877)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_469">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=469">
+              <img data-original="images/201609/thumb_img/469_thumb_G_1474313064821.jpg" src="images/201609/thumb_img/469_thumb_G_1474313064821.jpg" class="loading pic_img_469" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=469">一生相随</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥268</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(469)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_906">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=906">
+              <img data-original="images/201806/thumb_img/906_thumb_G_1530223974821.jpg" src="images/201806/thumb_img/906_thumb_G_1530223974821.jpg" class="loading pic_img_906" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=906">21朵 长相思</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥269</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(906)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_902">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=902">
+              <img data-original="images/201806/thumb_img/902_thumb_G_1527837432639.jpg" src="images/201806/thumb_img/902_thumb_G_1527837432639.jpg" class="loading pic_img_902" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=902">一生所爱</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥239</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(902)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_899">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=899">
+              <img data-original="images/201805/thumb_img/899_thumb_G_1526612593763.jpg" src="images/201805/thumb_img/899_thumb_G_1526612593763.jpg" class="loading pic_img_899" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=899">36朵 LOVE爱你</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥365</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(899)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_896">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=896">
+              <img data-original="images/201805/thumb_img/896_thumb_G_1525152580478.jpg" src="images/201805/thumb_img/896_thumb_G_1525152580478.jpg" class="loading pic_img_896" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=896">33朵 三生有幸</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥308</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(896)">加入购物车</a></div>
+        </div>
+      </li>
+        </ul>
+  </div>
+  <div class="banner2">
+  	
+	
+	<div class="child_cat_list child_cat_list_4">
+	
+					 
+				<a href="category.php?id=684" title="鲜花造型" target="_blank" >鲜花造型</a>
+								 
+				<a href="category.php?id=719" title="按花材" target="_blank" >按花材</a>
+								 
+				<a href="category.php?id=716" title="按用途" target="_blank" >按用途</a>
+								 
+				<a href="category.php?id=710" title="按对象" target="_blank" >按对象</a>
+								 
+				<a href="category.php?id=725" title="花材组合" target="_blank" >花材组合</a>
+								 
+				<a href="category.php?id=702" title="按枝数" target="_blank" >按枝数</a>
+						
+	</div>
+  	
+        		<div class="ban">
+		  <a href="affiche.php?ad_id=16&uri=" target="_blank"><img data-original="data/afficheimg/1515718107653126918.jpg" src="data/afficheimg/1515718107653126918.jpg" class="loading" ></a>
+		</div>
+    	
+  </div>
+</div>
+<div class="cn-laytit">
+	<div class="title">
+		<h3 class="floor_h5">5F 浪漫组合</h3>
+	</div>
+</div>
+<div class="cn-fruit cn-fruit-5">
+  <div class="banner">
+        		<div class="ban">
+		  <a href="affiche.php?ad_id=23&uri=" target="_blank"><img data-original="data/afficheimg/1515718046538706429.png" src="data/afficheimg/1515718046538706429.png" class="loading"></a>
+		</div>
+      </div>
+  <div class="goods">
+    <ul>
+          <li id="li_884">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=884">
+              <img data-original="images/201801/thumb_img/884_thumb_G_1517372033484.jpg" src="images/201801/thumb_img/884_thumb_G_1517372033484.jpg" class="loading pic_img_884" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=884">套餐组合|爱是你我</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥420</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(884)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_883">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=883">
+              <img data-original="images/201801/thumb_img/883_thumb_G_1517370540075.jpg" src="images/201801/thumb_img/883_thumb_G_1517370540075.jpg" class="loading pic_img_883" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=883">套餐组合|等你的幸福</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥309</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(883)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_882">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=882">
+              <img data-original="images/201801/thumb_img/882_thumb_G_1517369260500.jpg" src="images/201801/thumb_img/882_thumb_G_1517369260500.jpg" class="loading pic_img_882" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=882">套餐组合|有你不孤单</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥408</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(882)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_406">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=406">
+              <img data-original="images/201609/thumb_img/406_thumb_G_1473804474231.jpg" src="images/201609/thumb_img/406_thumb_G_1473804474231.jpg" class="loading pic_img_406" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=406">妈妈您辛苦了</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥340</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(406)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_545">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=545">
+              <img data-original="images/201610/thumb_img/545_thumb_G_1475710793101.jpg" src="images/201610/thumb_img/545_thumb_G_1475710793101.jpg" class="loading pic_img_545" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=545">套餐组合|唯你懂我心</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥327</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(545)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_855">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=855">
+              <img data-original="images/201612/thumb_img/855_thumb_G_1481248007303.jpg" src="images/201612/thumb_img/855_thumb_G_1481248007303.jpg" class="loading pic_img_855" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=855">套餐组合|真情不变</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥330</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(855)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_393">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=393">
+              <img data-original="images/201609/thumb_img/393_thumb_G_1473643636084.jpg" src="images/201609/thumb_img/393_thumb_G_1473643636084.jpg" class="loading pic_img_393" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=393">套餐组合|迈向幸福</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥328</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(393)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_857">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=857">
+              <img data-original="images/201612/thumb_img/857_thumb_G_1481485961139.jpg" src="images/201612/thumb_img/857_thumb_G_1481485961139.jpg" class="loading pic_img_857" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=857">套餐组合|细水流年</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥409</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(857)">加入购物车</a></div>
+        </div>
+      </li>
+        </ul>
+  </div>
+  <div class="banner2">
+  	
+	
+	<div class="child_cat_list child_cat_list_5">
+	
+					 
+				<a href="category.php?id=762" title="玫瑰+蛋糕" target="_blank" >玫瑰+蛋糕</a>
+								 
+				<a href="category.php?id=767" title="百合+蛋糕" target="_blank" >百合+蛋糕</a>
+								 
+				<a href="category.php?id=755" title="康乃馨蛋糕" target="_blank" >康乃馨蛋糕</a>
+								 
+				<a href="category.php?id=994" title="混搭组合" target="_blank" >混搭组合</a>
+						
+	</div>
+  	
+        		<div class="ban">
+		  <a href="affiche.php?ad_id=24&uri=" target="_blank"><img data-original="data/afficheimg/1515718057760862775.jpg" src="data/afficheimg/1515718057760862775.jpg" class="loading" ></a>
+		</div>
+    	
+  </div>
+</div>
+<div class="cn-laytit">
+	<div class="title">
+		<h3 class="floor_h6">6F 公仔礼品</h3>
+	</div>
+</div>
+<div class="cn-fruit cn-fruit-6">
+  <div class="banner">
+        		<div class="ban">
+		  <a href="affiche.php?ad_id=25&uri=" target="_blank"><img data-original="data/afficheimg/1515718008812459672.png" src="data/afficheimg/1515718008812459672.png" class="loading"></a>
+		</div>
+      </div>
+  <div class="goods">
+    <ul>
+          <li id="li_438">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=438">
+              <img data-original="images/201609/thumb_img/438_thumb_G_1474058628976.jpg" src="images/201609/thumb_img/438_thumb_G_1474058628976.jpg" class="loading pic_img_438" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=438">嘻哈小猴毛绒玩具 快递发...</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥68</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(438)">加入购物车</a></div>
+        </div>
+      </li>
+          <li id="li_437">
+        <div class="item">
+          <div class="img">
+            <a href="goods.php?id=437">
+              <img data-original="images/201609/thumb_img/437_thumb_G_1474057617802.jpg" src="images/201609/thumb_img/437_thumb_G_1474057617802.jpg" class="loading pic_img_437" ></a>
+          </div>
+          <div class="tit">
+            <a href="goods.php?id=437">米菲兔毛绒玩具 快递发货</a></div>
+          <div class="btns">
+            <div class="pri j_comPrice">
+              <b class="j_sellPrice"><font>￥68</font></b></div>
+            <a class="addtocart j_addToCartAysn" href="javascript:addToCart(437)">加入购物车</a></div>
+        </div>
+      </li>
+        </ul>
+  </div>
+  <div class="banner2">
+  	
+	
+	<div class="child_cat_list child_cat_list_6">
+	
+					 
+				<a href="category.php?id=850" title="小熊公仔" target="_blank" >小熊公仔</a>
+								 
+				<a href="category.php?id=857" title="小狗公仔" target="_blank" >小狗公仔</a>
+								 
+				<a href="category.php?id=838" title="兔子公仔" target="_blank" >兔子公仔</a>
+								 
+				<a href="category.php?id=1022" title="小猴公仔" target="_blank" >小猴公仔</a>
+						
+	</div>
+  	
+        		<div class="ban">
+		  <a href="affiche.php?ad_id=26&uri=" target="_blank"><img data-original="data/afficheimg/1515718017909844473.jpg" src="data/afficheimg/1515718017909844473.jpg" class="loading" ></a>
+		</div>
+    	
+  </div>
+</div>
+ 
+</div>
+	
+<div class="w-main panel-wrapper">
+</div>
+	
+<div class="site-footer">
+  <div class="footer_service">
+      <div class="fw">
+      </div>
+  </div>
+  <div class="container wrapper">
+    <div class="footer-links clearfix"> 
+            <dl class="col-links col-links-first">
+        <dt>配送方式 </dt>
+        	        <dd><a rel="nofollow" href="article.php?id=63" target="_blank">配送事项说明</a></dd>
+	        	        <dd><a rel="nofollow" href="article.php?id=69" target="_blank">上门自取</a></dd>
+	              </dl>
+            <dl class="col-links ">
+        <dt>支付方式</dt>
+        	        <dd><a rel="nofollow" href="article.php?id=66" target="_blank">货到付款</a></dd>
+	        	        <dd><a rel="nofollow" href="article.php?id=67" target="_blank">转账汇款</a></dd>
+	        	        <dd><a rel="nofollow" href="article.php?id=68" target="_blank">在线支付</a></dd>
+	              </dl>
+            <dl class="col-links ">
+        <dt>售后服务</dt>
+        	        <dd><a rel="nofollow" href="article.php?id=64" target="_blank">售后服务说明</a></dd>
+	        	        <dd><a rel="nofollow" href="article.php?id=71" target="_blank">修改订单信息说明</a></dd>
+	        	        <dd><a rel="nofollow" href="article.php?id=80" target="_blank">关于我们</a></dd>
+	              </dl>
+            <dl class="col-links ">
+        <dt>用户指南</dt>
+        	        <dd><a rel="nofollow" href="article.php?id=62" target="_blank">订购必读免责声明</a></dd>
+	        	        <dd><a rel="nofollow" href="article.php?id=70" target="_blank">会员介绍</a></dd>
+	        	        <dd><a rel="nofollow" href="article.php?id=74" target="_blank">蛋糕尺寸说明</a></dd>
+	              </dl>
+            <dl class="col-links" style="color:#000;">
+        <dt style="color:#000;">微信关注我们</dt>
+		              <dd><img src="data/afficheimg/1516072570372857616.jpg" width=85 height=85><br>微信扫一扫</dd>
+		         
+		
+      </dl>
+    </div>
+    <div class="footer-info clearfix" >
+      <div class="info-text">
+      <p>
+      &copy; 2012-2018 芙拉维尔 版权所有，并保留所有权利。                      <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备15058056号-2</a>
+            <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?409160537d5179f3bcab0028e86aff8e";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>      </p>
+        <p class="nav_bottom">
+                    <a href="article.php?id=1" target="_blank"  class="noborder" >免责条款</a>
+               <a href="article.php?id=2" target="_blank" >隐私保护</a>
+               <a href="article.php?id=4"  >联系我们</a>
+               <a href="article.php?id=5"  >公司简介</a>
+               <a href="myship.php"  >配送方式</a>
+                     </p>
+                  </div>      
+    </div>    
+  </div>
+</div>
+<div id="fly1" style="position: fixed; top: 250px; width: 90px; height: 0px; z-index: 10000; left: 50%; margin-left:610px;">
+	<img src="themes/shengxian/images/rightok.jpg" usemap="#rightAd" border="0" width="80" height="330" original="./images/rightok.jpg">
+	<div style="display: block;" id="goTopBtn">
+		<img border="0" src="themes/shengxian/images/rightgotop.jpg" original="./images/rightgotop.jpg">
+	</div>
+	<map name="rightAd">
+	
+     	<area shape="rect" rel="nofollow" coords="10,30,70,90" class="qkf" href="http://wpa.qq.com/msgrd?v=3&uin=3538978702&site=芙拉维尔&Menu=yes" title="点击咨询企业QQ" target="_blank">
+	 		<area shape="rect" coords="10,100,70,170" href="https://static.meiqia.com/dist/standalone.html?_=t&eid=22031" target="_blank" rel="nofollow" class="zixun" title="点击咨询在线客服">
+		
+		<area shape="rect" rel="nofollow" coords="10,250,70,310" href="article.php?id=64" title="售后服务" target="_blank">
+	</map>
+	
+</div>
+<script type='text/javascript'>
+$(document).ready(function(){
+  $("#goTopBtn").click(function(){
+    $('body,html').animate({scrollTop: 0}, 200);
+  });
+ 
+});
+function Online_Consultation()
+{
+document.getElementById("MEIQIA-BTN-TEXT").click();
+}
+</script>
+<link href="themes/shengxian/right_bar.css" rel="stylesheet" type="text/css" />
+<div class="right-sidebar-con">
+	<div class="right-sidebar-main">
+        <div class="right-sidebar-panel">
+            <div id="quick-links" class="quick-links">
+            	<ul>
+                    <li class="quick-area quick-login">
+                        <a href="javascript:;" class="quick-links-a"><i class="setting"></i></a>
+                        <div class="sidebar-user quick-sidebar">
+                        	<i class="arrow-right"></i>
+                            <div class="sidebar-user-info">
+                            	                                <div class="user-pic">
+                                	<div class="user-pic-mask"></div>
+                                    <img src="themes/shengxian/images/people.gif" />
+                                </div>
+                                <p>你好！请<a href="user.php" class="quick-login-a main-color">登录</a>|<a href="user.php?act=register" class="main-color">注册</a></p>
+                                                            </div>
+                        </div>
+                    </li>
+                    <li class="sidebar-tabs">
+                        <div class="cart-list quick-links-a" id="collectBox">
+                            <i class="cart"></i>
+                            <div class="span">购物车</div>
+                            <span class="ECS_CARTINFO" id="ECS_CARTINFO"><form id="formCart" name="formCart" method="post" action="flow.php" >
+	<span class="cart_num">0</span>
+	<div class="sidebar-cart-box">
+        <h3 class="sidebar-panel-header">
+            <a href="javascript:;" class="title"><i class="cart-icon"></i><em class="title">购物车</em></a>
+            <span class="close-panel"></span>
+        </h3>
+        <div class="cart-panel-main">
+            <div class="cart-panel-content" style="height:auto;">
+                                <div class="tip-box">
+                  <i class="tip-icon"></i>
+                  <div class="tip-text">您的购物车里什么都没有哦<br/><a class="main-color" href="./">再去看看吧</a></div>
+                </div>
+                            </div>
+        </div>
+            </div>
+<script type="text/javascript">
+function deleteCartGoods(rec_id){
+	Ajax.call('delete_cart_goods.php', 'id='+rec_id, deleteCartGoodsResponse, 'POST', 'JSON');
+}
+
+/**
+ * 接收返回的信息
+ */
+function deleteCartGoodsResponse(res){
+  if (res.error){
+    alert(res.err_msg);
+  }else{
+      $('.ECS_CARTINFO').html(res.content);
+      $('.cart-panel-content').height($(window).height()-90);
+      $("#ECS_CARTINFO_TOP").html(res.content_top);
+  }
+}
+</script> 
+</form>
+</span>
+                        </div>
+                    </li>
+                    <li class="sidebar-tabs">
+                        <a href="javascript:void(0);" class="mpbtn_history quick-links-a"><i class="history"></i></a>
+                        <div class="popup">
+                            <font id="mpbtn_histroy">浏览历史</font>
+                            <i class="arrow-right"></i>
+                        </div>
+                    </li>
+                    <li id="collectGoods">
+                        <a href="user.php?act=collection_list" target="_blank" class="mpbtn_collect quick-links-a"><i class="collect"></i></a>
+                        <div class="popup">
+                            我的收藏
+                            <i class="arrow-right"></i>
+                        </div>
+                    </li>
+                    <li id="collectGoods">
+                        <a href="user.php?act=account_log" target="_blank" class="mpbtn_collect quick-links-a"><i class="account"></i></a>
+                        <div class="popup">
+                            我的资产
+                            <i class="arrow-right"></i>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="quick-toggle">
+            	<ul>
+                    <li class="quick-area">
+                    	<a class="quick-links-a" href="javascript:;"><i class="customer-service"></i></a>
+                        <div class="sidebar-service quick-sidebar">
+                        	<i class="arrow-right"></i>
+												<div class="customer-service">
+				    <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=3538978702&site=qq&menu=yes" alt="点击这里给我发消息" title="点击这里给我发消息"><span class="icon-qq"></span>QQ客服</a>
+				</div>
+																				                        </div>
+                    </li>
+                    <li class="quick-area">
+                    	<a class="quick-links-a" href="javascript:;"><i class="qr-code"></i></a>
+                        <div class="sidebar-code quick-sidebar">
+                        	<i class="arrow-right"></i>
+		              <img src="data/afficheimg/1516072570372857616.jpg" width="130">
+		  		
+                        </div>
+                    </li>
+                    <li class="returnTop">
+                        <a href="javascript:;" class="return_top quick-links-a"><i class="top"></i></a>
+                        <div class="popup">
+                        	返回顶部
+                        	<i class="arrow-right"></i>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="">
+        	
+            
+        	
+        	<div id="ECS_CARTINFO_content" class="ECS_CARTINFO right-sidebar-panels"><form id="formCart" name="formCart" method="post" action="flow.php" >
+	<span class="cart_num">0</span>
+	<div class="sidebar-cart-box">
+        <h3 class="sidebar-panel-header">
+            <a href="javascript:;" class="title"><i class="cart-icon"></i><em class="title">购物车</em></a>
+            <span class="close-panel"></span>
+        </h3>
+        <div class="cart-panel-main">
+            <div class="cart-panel-content" style="height:auto;">
+                                <div class="tip-box">
+                  <i class="tip-icon"></i>
+                  <div class="tip-text">您的购物车里什么都没有哦<br/><a class="main-color" href="./">再去看看吧</a></div>
+                </div>
+                            </div>
+        </div>
+            </div>
+<script type="text/javascript">
+function deleteCartGoods(rec_id){
+	Ajax.call('delete_cart_goods.php', 'id='+rec_id, deleteCartGoodsResponse, 'POST', 'JSON');
+}
+
+/**
+ * 接收返回的信息
+ */
+function deleteCartGoodsResponse(res){
+  if (res.error){
+    alert(res.err_msg);
+  }else{
+      $('.ECS_CARTINFO').html(res.content);
+      $('.cart-panel-content').height($(window).height()-90);
+      $("#ECS_CARTINFO_TOP").html(res.content_top);
+  }
+}
+</script> 
+</form>
+</div>
+        	
+            
+        	<div class="right-sidebar-panels">
+				<h3 class="sidebar-panel-header">
+                	<a href="javascript:;" class="title"><i></i><em class="title">我的足迹</em></a>
+                    <span class="close-panel"></span>
+                </h3>
+          		<div class="sidebar-panel-main">
+            		<div class="sidebar-panel-content">
+              			<div class="history-panel">
+              				<ul>
+                				<li>
+              <div class="p-img"><a target="_blank" href="goods.php?id=366"><img data-original="images/201806/thumb_img/366_thumb_G_1529612450352.jpg" src="images/spacer.gif" class="loading" alt="欧式蛋糕|回味无穷 新鲜水果 新鲜配送"></a></div>
+              <div class="p-name"><a target="_blank" href="goods.php?id=366">欧式蛋糕|回味无穷 新鲜水果 新鲜配送</a> </div>
+              <div class="p-comm"><span class="p-price main-color"><font>￥158</font></span> </div>
+            </li><li>
+              <div class="p-img"><a target="_blank" href="goods.php?id=370"><img data-original="images/201610/thumb_img/370_thumb_G_1476409354869.jpg" src="images/spacer.gif" class="loading" alt="祝寿蛋糕|幸福安康"></a></div>
+              <div class="p-name"><a target="_blank" href="goods.php?id=370">祝寿蛋糕|幸福安康</a> </div>
+              <div class="p-comm"><span class="p-price main-color"><font>￥179</font></span> </div>
+            </li><li>
+              <div class="p-img"><a target="_blank" href="goods.php?id=376"><img data-original="images/201802/thumb_img/376_thumb_G_1519779863403.jpg" src="images/spacer.gif" class="loading" alt="水果蛋糕|爱的果园"></a></div>
+              <div class="p-name"><a target="_blank" href="goods.php?id=376">水果蛋糕|爱的果园</a> </div>
+              <div class="p-comm"><span class="p-price main-color"><font>￥156</font></span> </div>
+            </li><li>
+              <div class="p-img"><a target="_blank" href="goods.php?id=481"><img data-original="images/201805/thumb_img/481_thumb_G_1527722366097.jpg" src="images/spacer.gif" class="loading" alt="欧式蛋糕|清凉夏日"></a></div>
+              <div class="p-name"><a target="_blank" href="goods.php?id=481">欧式蛋糕|清凉夏日</a> </div>
+              <div class="p-comm"><span class="p-price main-color"><font>￥168</font></span> </div>
+            </li><li>
+              <div class="p-img"><a target="_blank" href="goods.php?id=524"><img data-original="images/201806/thumb_img/524_thumb_G_1527816729235.jpg" src="images/spacer.gif" class="loading" alt="欧式蛋糕|简单的爱"></a></div>
+              <div class="p-name"><a target="_blank" href="goods.php?id=524">欧式蛋糕|简单的爱</a> </div>
+              <div class="p-comm"><span class="p-price main-color"><font>￥170</font></span> </div>
+            </li><li>
+              <div class="p-img"><a target="_blank" href="goods.php?id=541"><img data-original="images/201806/thumb_img/541_thumb_G_1529612487125.jpg" src="images/spacer.gif" class="loading" alt="水果蛋糕|水果传奇"></a></div>
+              <div class="p-name"><a target="_blank" href="goods.php?id=541">水果蛋糕|水果传奇</a> </div>
+              <div class="p-comm"><span class="p-price main-color"><font>￥155</font></span> </div>
+            </li><li>
+              <div class="p-img"><a target="_blank" href="goods.php?id=702"><img data-original="images/201801/thumb_img/702_thumb_G_1516327663240.jpg" src="images/spacer.gif" class="loading" alt="心形蛋糕|心相约"></a></div>
+              <div class="p-name"><a target="_blank" href="goods.php?id=702">心形蛋糕|心相约</a> </div>
+              <div class="p-comm"><span class="p-price main-color"><font>￥158</font></span> </div>
+            </li>                			</ul>
+     		  			</div>
+            		</div>
+          		</div>
+        	</div>
+        	
+        </div>
+    </div>
+</div>
+<script type="text/javascript">	
+$(window).scroll(function(){ 
+	if($(this).scrollTop() > $(window).height() ){ 
+		$('.returnTop').show();
+	}else{ 
+		$('.returnTop').hide();
+	} 
+}) 
+$('.cart-panel-content').height($(window).height()-90);
+$('.bonus-panel-content').height($(window).height()-40);
+$(".returnTop").click(function(){
+	$('body,html').animate({scrollTop:0},800);
+	return false;
+});
+$('.quick-area').hover(function(){
+	$(this).find('.quick-sidebar').toggle();
+})
+//移动图标出现文字
+$(".right-sidebar-panel li").mouseenter(function(){
+	$(this).children(".popup").stop().animate({left:-92,queue:true});
+	$(this).children(".popup").css("visibility","visible");
+	$(this).children(".ibar_login_box").css("display","block");
+});
+$(".right-sidebar-panel li").mouseleave(function(){
+	$(this).children(".popup").css("visibility","hidden");
+	$(this).children(".popup").stop().animate({left:-121,queue:true});
+	$(this).children(".ibar_login_box").css("display","none");
+});
+//点击购物车、用户信息以及浏览历史事件
+$('.sidebar-tabs').click(function(){
+	if($('.right-sidebar-main').hasClass('right-sidebar-main-open')&&$(this).hasClass('current')){
+		$('.right-sidebar-main').removeClass('right-sidebar-main-open');
+		$(this).removeClass('current');
+		$('.right-sidebar-panels').eq($(this).index()-1).removeClass('animate-in').addClass('animate-out').css('z-index',1);
+		$('.cart-panel-content').height($(window).height()-90);
+	}else{
+		$(this).addClass('current').siblings('.sidebar-tabs').removeClass('current');
+		$('.right-sidebar-main').addClass('right-sidebar-main-open');
+		$('.right-sidebar-panels').eq($(this).index()-1).addClass('animate-in').removeClass('animate-out').css('z-index',2).siblings('.right-sidebar-panels').removeClass('animate-in').addClass('animate-out').css('z-index',1);
+		$('.cart-panel-content').height($(window).height()-90);
+	}
+});
+$(".right-sidebar-panels").on('click', '.close-panel', function () {
+	$('.sidebar-tabs').removeClass('current');
+	$('.right-sidebar-main').removeClass('right-sidebar-main-open');
+	$('.right-sidebar-panels').removeClass('animate-out');
+});
+$(document).click(function(e){ 
+	var target = $(e.target); 
+	if(target.closest('.right-sidebar-con').length == 0){ 
+		$('.right-sidebar-main').removeClass('right-sidebar-main-open');
+		$('.sidebar-tabs').removeClass('current');
+		$('.right-sidebar-panels').removeClass('animate-in').addClass('animate-out').css('z-index',1);
+	} 
+}) 
+$('.pop-login').css('top',($(window).height()-$('.pop-login').height())/2);
+$('.pop-close').click(function(){
+	$('.pop-main,.pop-mask').hide();
+	$('form[name="formLogin"]').find('.msg-wrap').css('visibility','hidden');
+	$('.pop-login .item,.pop-login .item-detail').removeClass('item-error');
+	$('.pop-login .text').val('');
+})
+$('.pop-login .item .text').focus(function(){
+	$(this).addClass('')	
+})
+</script><script type="text/javascript">
+$("img").lazyload({
+	effect: "fadeIn",
+	threshold: 100,
+	failure_limit: 25,
+	skip_invisible: false
+});
+</script>
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 22031);
+</script>
+<div class="add_ok" id="cart_show">
+    <div class="tip">
+        <i class="iconfont"></i>商品已成功加入购物车
+    </div>
+    <div class="go">
+        <a href="javascript:easyDialog.close();" class="back">&lt;&lt;继续购物</a>
+        <a href="flow.php" class="btn">去结算</a>
+    </div>
+</div>
+</body>
+</html>

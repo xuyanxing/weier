@@ -1,0 +1,139 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+}
+#header{
+	height: 202px;
+}
+#footer{
+	height: 414px;
+}
+#cart{
+	background: #F0F0F0;
+}
+.balanceWarp{
+	width: 1202px;
+	height: 40px;
+	margin: 30px auto;
+}
+.balance{
+	width: 156px;
+	height: 30px;
+	float: right;
+}
+.goShop{
+	display: inline-block;
+	width: 70px;
+	height: 28px;
+	background: #808080;
+	text-align: center;
+	line-height: 28px;
+	font-size: 14px;
+}
+.gobalance{
+	display: inline-block;
+	width: 70px;
+	height: 28px;
+	background: #008000;
+	color: white;
+	text-align: center;
+	line-height: 28px;
+	font-size: 14px;
+	margin-left: 5px;
+}
+.balance_head{
+	width: 1202px;
+	background: white;
+	margin: 0 auto;
+}
+.balanceNav{
+	width: 1202px;
+	height: 73px;
+	overflow: hidden;
+}
+.balanceNav li{
+	float: left;
+	width: 150px;
+	height: 21px;
+	margin-top: 25px;
+	line-height: 21px;
+}
+.balanceNav .check{
+	width: 440px;
+	height: 20px;
+}
+#tbody{
+width: 1202px;
+border: 1px solid #383838;	
+}
+.sheet{
+	width: 1202px;
+	height: 82px;
+}
+.sheet dd{
+	float: left;
+	width: 143px;
+}
+.sheet b{
+	color: red;
+}
+.thumb img{
+	width: 62px;
+	height: 62px;
+}
+.minus{
+	width: 22px;
+	height: 22px;
+	text-align: center;
+	line-height: 22px;
+	font-size: 18px;
+}
+.textval{
+	width: 50px;
+	height: 20px;
+	text-align: center;
+	line-height: 20px;
+	font-size: 18px;
+}
+.adds{
+	width: 22px;
+	height: 22px;
+	text-align: center;
+	line-height: 22px;
+	font-size: 18px;
+}
+.emptysWarp{
+	width: 1202px;
+	height: 166px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.emptyleft{
+	width: 88px;
+	height: 96px;
+	float: left;
+}
+.emptyright{
+	width: 178px;
+	height: 100px;
+	float: right;
+}
+.totalPrice{
+	width: 178px;
+	height: 30px;
+}
+.totalPrice>span{
+	font-size: 18px;
+	color: #008000;
+}
+.Check{
+	width: 90px;
+	height: 38px;
+	background: #4BAE00;
+	text-align: center;
+	line-height: 38px;
+	color: white;
+}

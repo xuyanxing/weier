@@ -1,0 +1,86 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	cursor: pointer;
+	color: #000000;
+}
+#foot{
+	width: 100%;
+	height: 414px;
+	position: relative;
+}
+.contact{
+	width: 100%;
+	height: 121px;
+	background: #f5f5f5;
+}
+.contactWarp{
+	width: 1202px;
+	height: 121px;
+	margin: 0 auto;
+}
+.contactWarp>li{
+	float: left;
+	list-style: none;
+	width: 170px;
+	height: 40px;
+	margin-top: 40px;
+	margin-left: 80px;
+}
+.contactWarp>li>h4{
+	float: right;
+}
+.contactWarp>li>h4>span{
+	font-size: 17px;
+}
+.contactWarp>li>h4>a{
+	font-size: 12px;
+	cursor: pointer;
+}
+.sale{
+	width: 100%;
+	height: 294px;
+	overflow: hidden;
+	background: #d5f3fd;
+}
+.saleLink{
+	width: 1202px;
+	height: 160px;
+	margin: 50px auto 23px;
+}
+.saleLink>dl{
+	float: left;
+	width: 190px;
+	text-align: center;
+	margin-left: 10px;
+}
+.saleLink>dl>dt{
+	font-weight: bold;
+	font-size: 17px;
+	margin-bottom: 10px;
+}
+.saleLink>dl>dd{
+	margin-bottom: 10px;
+}
+.saleLink>dl>dd>img{
+	width: 86px;
+	height: 89px;
+}
+.infoText{
+	width: 1202px;
+	height: 60px;
+	margin: 0 auto;
+}
+.infoText>p{
+	width: 1202px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.infoTextNav>a{
+	padding-right: 40px;
+	cursor: pointer;
+}

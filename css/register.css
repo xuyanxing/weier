@@ -1,0 +1,168 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.menu{
+	display: none;
+}
+#header{
+	height: 202px;
+}
+#registerContent{
+	height: 732px;
+}
+.registerHead{
+	height: 100px;
+	border-bottom: 1px solid #B0B0B0;
+	box-shadow: 0 2px 2px #B0B0B0;
+	margin-bottom: 50px;
+}
+.registerHead_center{
+	width: 980px;
+	height: 100px;
+	margin: 0 auto;
+}
+.registerHead_center>p{
+	width: 150px;
+	height: 22px;
+	float: right;
+	margin-top: 45px;
+}
+.registerHead_center>p>span{
+	font-size: 13px;
+}
+.registerHead_center>p>a{
+	display: inline-block;
+	width: 48px;
+	background: #0ec956;
+	color: white;
+	cursor: pointer;
+	text-align: center;
+	font-size: 14px;
+}
+.registerHead_center>p>a:hover{
+	color: black;
+}
+.registerIntermed{
+	width: 980px;
+	height: 530px;
+	border: 1px solid #B0B0B0;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px #B0B0B0;
+	margin: 0 auto;
+	
+}
+.User{
+	width: 980px;
+	height: 56px;
+	color: #49a26a;
+	line-height: 56px;
+	text-align: center;
+	border-bottom: 2px solid #49a26a;
+	margin-bottom: 32px;
+}
+.forms{
+	width: 980px;
+	height: 425px;
+	
+}
+.loginWarp{
+	width: 400px;
+	height: 386px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.mistack1{
+	width: 400px;
+	height: 23px;
+	color: red;
+	font-size: 10px;
+	display: none;
+}
+.mistack2{
+	width: 400px;
+	height: 23px;
+	color: red;
+	font-size: 10px;
+	display: none;
+}
+.mistack3{
+	width: 400px;
+	height: 23px;
+	color: red;
+	font-size: 10px;
+	display: none;
+}
+.mistack4{
+	width: 400px;
+	height: 23px;
+	color: red;
+	font-size: 10px;
+	display: none;
+}
+.mistack5{
+	width: 400px;
+	height: 23px;
+	color: red;
+	font-size: 10px;
+	display: none;
+}
+.loginWarp>li{
+	width: 400px;
+	height: 41px;
+	list-style: none;
+	overflow: hidden;
+	border: 1px solid #d3d3d3;
+}
+.loginWarp>li>a{
+	cursor: pointer;
+	color: #210094;
+}
+.loginWarp>li>input{
+	border-style: none;
+}
+#username{
+	width: 200px;
+	height: 40px;
+}
+#cellphone{
+	width: 300px;
+	height: 40px;
+}
+#note{
+	width: 200px;
+	height: 40px;
+}
+#obtain{
+	width: 105px;
+	height: 40px;
+	text-align: center;
+	cursor: pointer;
+}
+#passCode{
+	width: 300px;
+	height: 40px;
+}
+#confirmCode{
+	width: 300px;
+	height: 40px;
+}
+#radios{
+	cursor: pointer;
+}
+.forms>li>span{
+	
+}
+#submits{
+	width: 400px;
+	height: 41px;
+	background: #4cae01;
+	color: white;
+	text-align: center;
+	line-height: 41px;
+	font-size: 20px;
+	cursor: pointer;
+}
+#footer{
+	height: 414px;
+}

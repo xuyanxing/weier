@@ -1,0 +1,234 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#header{
+	height: 202px;
+}
+#footer{
+	height: 414px;
+}
+.menu{
+	display: none;
+}
+#myorderContent{
+    position: relative;
+}
+.myorderHead{
+	height: 100px;
+	border-bottom: 1px solid #B0B0B0;
+	box-shadow: 0 2px 2px #B0B0B0;
+	margin-bottom: 50px;
+}
+.myorderHead_center{
+	width: 980px;
+	height: 100px;
+	margin: 0 auto;                                                        
+}
+.myorderHead_center>p{
+	width: 150px;
+	height: 22px;
+	float: right;
+	margin-top: 45px;
+}
+.myorderHead_center>p>span{
+	font-size: 13px;
+}
+.myorderHead_center>p>a{
+	display: inline-block;
+	width: 48px;
+	background: #0ec956;
+	color: white;
+	cursor: pointer;
+	text-align: center;
+	font-size: 14px;
+}
+.myorderHead_center>p>a:hover{
+	color: black;
+}
+.myorderWarp{
+	width: 980px;
+	height: 394px;
+	margin: 0 auto;
+	border: 1px solid #B0B0B0;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px #B0B0B0;
+}
+.myordreNav{
+	width: 980px;
+	height: 56px;
+}
+.myordreNav>li{
+	float: left;
+	width: 488px;
+	height: 56px;
+	text-align: center;
+	line-height: 56px;
+}
+.myordreNav_left{
+	border-right: 1px dotted #D3D3D3;
+	border-bottom: 1px solid #1ac14b;
+}
+.myordreNav_left>i{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background: url(../img/QQ截图20180625193856.png) no-repeat -214px -58px;
+}
+.myordreNav_left>span{
+	color: #4BAE00;
+	font-size: 14px;
+}
+.myordreNav_right{
+	border-bottom: 1px solid #dddddd;
+}
+.myordreNav_right>i{
+	display: inline-block;
+	width: 20px;
+	height: 25px;
+	vertical-align: middle;
+	background: url(../img/QQ截图20180625193856.png) no-repeat -634px -58px;
+}
+.myordreNav_right>span{
+	color: #B0B0B0;
+	font-size: 14px;
+}
+.registerWarp{
+	width: 980px;
+	height: 328px;
+	overflow: hidden;
+	border: 1px solid #dddddd;
+	border-radius: 5px;
+}
+.registerCon{
+	width: 400px;
+	height: 228px;
+	margin: 50px auto 0;
+}
+.registerCon li{
+	width: 400px;
+	height: 42px;
+	margin-bottom: 5px;
+	border: 1px solid #383838;
+}
+.registerCon p{
+	width: 400px;
+	height: 20px;
+	color: red;
+	display: none;
+}
+#mytextd{
+	width: 362px;
+	height: 40px;
+	outline: none;
+	border-style: none;
+}
+#pass{
+	width: 362px;
+	height: 40px;
+	outline: none;
+	border-style: none;
+}
+.checkedWarp{
+	float: left;
+	width: 184px;
+	height: 19px;
+	line-height: 19px;
+	margin-top: 5px;
+}
+.checkedWarp>span{
+	font-size: 14px;
+}
+#checked{
+	width: 14px;
+	height: 14px;
+}
+.findPass{
+	width: 90px;
+	height: 24px;
+	line-height: 24px;
+	float: right;
+}
+.findPass>a{
+	color: #008000;
+}
+#enterBtn{
+	width: 400px;
+	height: 42px;
+	color: white;
+	font-size: 20px;
+	background: #008000;
+}
+.cellPhone_warp{
+	width: 980px;
+	height: 394px;
+	margin: 0 auto;
+	overflow: hidden;
+	position: absolute;
+	top: 210px;
+	left: 450px;
+	display: none;
+}
+.cellPhone_con{
+	width: 400px;
+	height: 294px;
+	margin: 30px auto 0;
+}
+.cellPhone_con li{
+	width: 400px;
+	height: 42px;
+	border: 1px solid #383838;
+	margin-bottom: 5px;
+}
+.cellPhone_con p{
+	width: 400px;
+	height: 20px;
+	display: none;
+	color: red;
+}
+#texted{
+	width: 362px;
+	height: 40px;
+	outline: none;
+	border-style: none;
+}
+#text{
+	width: 100px;
+	height: 40px;
+	outline: none;
+	border-style: none;
+}
+.textCode{
+	width: 114px;
+	height: 40px;
+	color: white;
+	float: right;
+	text-align: center;
+	line-height: 40px;
+	font-size: 17px;
+	background: #008000;
+}
+#mytexts{
+	width: 175px;
+	height: 40px;
+	outline: none;
+	border-style: none;
+}
+#mybutton{
+	width: 93px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	outline: none;
+	border-style: none;
+	float: right;
+}
+#mybuttons{
+	width: 400px;
+	height: 40px;
+	color: white;
+	text-align: center;
+	line-height: 40px;
+	font-size: 20px;
+	background: #008000;
+}

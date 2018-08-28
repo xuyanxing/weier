@@ -1,0 +1,966 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+}
+#header{
+	height: 202px;
+}
+#footer{
+	height: 414px;
+}
+/*----------轮播图--------------------*/
+.binnerWarp{
+	width: 100%;
+	height: 483px;
+	overflow: hidden;
+	position: relative;
+}
+.binnerBox{
+	width: 1920px;
+	height: 483px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.binner{
+	width: 1920px;
+	height: 483px;
+}
+.binner>img{
+	width: 1920px;
+	height: 483px;
+}
+.binnerBtn{
+	width: 150px;
+	height: 25px;
+	position: absolute;
+	bottom: 40px;
+	left: 50%;
+	margin-left: -75px;
+}
+.binnerBtn>li{
+	float: left;
+	width: 25px;
+	height: 25px;
+	background: #88c657;
+	border-radius: 50%;
+	margin-left: 4px;
+	cursor: pointer;
+}
+.binnerBtn .binnerActive{
+	background: #ffc513;
+}
+/*精品推荐-----------------------------*/
+.newProduct{
+	width: 1202px;
+	height: 342px;
+	margin: 20px auto;
+}
+.productHead{
+	width: 1202px;
+	height: 37px;
+	border-bottom: 2px solid #fc6b00;
+}
+.newProduct_nav li{
+	float: left;
+	width: 200px;
+	height: 37px;
+	margin-left: 10px;
+	background: #f5f5f5;
+	text-align: center;
+	line-height: 37px;
+	border-radius: 5px 5px 0 0;
+}
+.newProduct_nav li a{
+	color: #666666;
+}
+.newProduct_nav .newArrival{
+	margin-left: 0;
+	background: #fc6b00;
+}
+.newProduct_nav .newArrival a{
+	color: white;
+}
+.productCon{
+	width: 1202px;
+	height: 300px;
+	overflow: hidden;
+}
+.productCon>div{
+	width: 1202px;
+	height: 300px;
+	background: #ededed;
+}
+.arrivalCon_warp>li{
+	float: left;
+	width: 237px;
+	height: 300px;
+	background: #ffffff;
+	margin-left: 4px;
+}
+.arrivalCon_warp>li:nth-of-type(1){
+	margin-left: 0;
+}
+.arrivalCon_warp>li>a{
+	display:inline-block;
+	width: 235px;
+	height: 220px;
+}
+.arrivalCon_warp>li>a>img{
+	width: 180px;
+	height: 180px;
+	margin: 23px 0 0 30px;
+}
+.arrivalCon_warp2>li{
+	float: left;
+	width: 237px;
+	height: 300px;
+	background: #ffffff;
+	margin-left: 4px;
+}
+.arrivalCon_warp2>li:nth-of-type(1){
+	margin-left: 0;
+}
+.arrivalCon_warp2>li>a{
+	display:inline-block;
+	width: 235px;
+	height: 220px;
+}
+.arrivalCon_warp2>li>a>img{
+	width: 180px;
+	height: 180px;
+	margin: 23px 0 0 30px;
+}
+.arrivalCon_warp3>li{
+	float: left;
+	width: 237px;
+	height: 300px;
+	background: #ffffff;
+	margin-left: 4px;
+}
+.arrivalCon_warp3>li:nth-of-type(1){
+	margin-left: 0;
+}
+.arrivalCon_warp3>li>a{
+	display:inline-block;
+	width: 235px;
+	height: 220px;
+}
+.arrivalCon_warp3>li>a>img{
+	width: 180px;
+	height: 180px;
+	margin: 23px 0 0 30px;
+}
+.inforlook{
+	width: 237px;
+	height: 80px;
+	overflow: hidden;
+	background: #f1f7f4;
+}
+.titles{
+	width: 202px;
+	height: 22px;
+	line-height: 22px;
+	color: #383838;
+	margin: 10px 0 8px 15px;
+}
+.buyBtn{
+	width: 202px;
+	height: 33px;
+	margin-left: 15px;
+}
+.price{
+	color: red;
+}
+.look{
+	display: inline-block;
+	width: 80px;
+	height: 26px;
+	border-radius: 5px;
+	text-align: center;
+	line-height: 26px;
+	background: #ff870f;
+	color: white;
+	float: right;
+}
+.look>a{
+	color: white;
+}
+/*---------------1F蛋糕分类----------*/
+.fristFloor{
+	width: 1202px;
+	height: 462px;
+	margin: 0 auto;
+	
+}
+.fristFloor_head{
+	width: 1202px;
+	height: 37px;
+	border-bottom: 2px solid #ff6c00;
+}
+.fristFloor_head p{
+	width: 237px;
+	height: 37px;
+	background: #ff6c00;
+	color: white;
+	text-align: center;
+	line-height: 37px;
+	border-radius: 5px 5px 0 0;
+}
+.fristFloor_classify{
+	width: 1202px;
+	height: 420px;
+}
+.fristFloor_classify>div{
+	float: left;
+}
+.fristFloorLeft{
+	width: 240px;
+	height: 420px;
+}
+.fristFloorMid{
+	width: 740px;
+	height: 420px;
+}
+.fristFloorMid>ul>li{
+	width: 185px;
+	height: 210px;
+	float: left;
+}
+.FloorMidOne>div{
+	width: 185px;
+	height: 210px;
+	/*background: red;*/
+}
+.cakeCon>a>img{
+	width: 140px;
+	height: 140px;
+	margin: 5px 0 0 23px;
+}
+.addToCart{
+	width: 185px;
+	height: 60px;
+	overflow: hidden;
+}
+.addToCart>p{
+	width: 150px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	margin: 5px 0 5px 15px;
+}
+.titleColor a.on{
+	color: #4BAE00;
+}
+.addToCart>p>a{
+	color: #666666;
+}
+.buycartBtn{
+	width: 160px;
+	height: 29px;
+	margin-left: 15px;
+}
+.buycartBtn>font{
+	color: #ff9800;
+}
+.addtoBag{
+	display: inline-block;
+	width: 90px;
+	height: 25px;
+	text-align: center;
+	line-height: 25px;
+	background: #228B22;
+	border-radius: 5px;
+	float: right;
+	color: white;
+	font-size: 12px;
+	display: none;
+}
+.fristFloorRight{
+	width: 220px;
+	height: 420px;
+}
+.FloorRightChoose{
+	width: 220px;
+	height: 190px;
+	background: #f1f1f1;
+}
+.FloorRightChoose>a{
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	background: white;
+	text-align: center;
+	line-height: 60px;
+	font-size: 12px;
+	color: orangered;
+	border-radius: 50%;
+	margin-left: 8px;
+	margin-top: 10px;
+}
+.FloorRightCake{
+	width: 220px;
+	height: 230px;
+}
+/*生日蛋糕-----------------------*/
+.secondFloor{
+	width: 1202px;
+	height: 462px;
+	margin: 20px auto;
+}
+.secondFloor_head{
+	width: 1202px;
+	height: 37px;
+	border-bottom: 2px solid #d12e49;
+}
+.secondFloor_head>p{
+	width: 237px;
+	height: 37px;
+	background: #d12e49;
+	color: white;
+	text-align: center;
+	line-height: 37px;
+	border-radius: 5px 5px 0 0;
+}
+.secondFloor_classify{
+	width: 1202px;
+	height: 420px;
+	overflow: hidden;
+}
+.secondFloor_classify>div{
+	float: left;
+}
+.secondFloorLeft{
+	width: 240px;
+	height: 420px;
+}
+.secondFloorMid{
+	width: 740px;
+	height: 420px;
+}
+.upperPart>li{
+	float: left;
+	width: 185px;
+	height: 210px;
+}
+.upperPart>li img{
+	width: 140px;
+	height: 140px;
+	margin: 5px 0 0 23px;
+}
+.upperPartCon{
+	width: 185px;
+	height: 60px;
+}
+.upperPartCon>p{
+	width: 150px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	margin: 5px 0 5px 15px;
+}
+.upperPartCon>p>a{
+	color: #666666;
+}
+.priceWarp{
+	width: 160px;
+	height: 29px;
+	margin-left: 15px;
+}
+.price{
+	color: #ff9800;
+}
+.addCart{
+	display: inline-block;
+	width: 90px;
+	height: 25px;
+	text-align: center;
+	line-height: 25px;
+	background: #228B22;
+	border-radius: 5px;
+	float: right;
+	display: none;
+}
+.addCart>a{
+	color: white;
+	font-size: 14px;
+}
+.nextPart>li{
+	float: left;
+	width: 185px;
+	height: 210px;
+}
+.nextPart>li img{
+	width: 140px;
+	height: 140px;
+	margin: 5px 0 0 23px;
+}
+.nextPartCon{
+	width: 185px;
+	height: 60px
+}
+.titlesColor>a.on{
+	color: #4BAE00;
+}
+.nextPartCon>p{
+	width: 150px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	margin: 5px 0 5px 15px;
+}
+.nextPartCon>p>a{
+	color: #666666;
+}
+.secondFlooRight{
+	width: 220px;
+	height: 420px;
+}
+.secondFloor_Choose{
+	width: 220px;
+	height: 190px;
+	background: #f1f1f1;
+}
+.secondFloor_Cake{
+	width: 220px;
+	height: 230px;
+}
+/*3F水果蛋糕---------------------------------------*/
+.thirdFloor{
+	width: 1202px;
+	height: 462px;
+	margin: 0 auto;
+}
+.thirdFloor_head{
+	width: 1202px;
+	height: 37px;
+	border-bottom: 2px solid #f08c18;
+}
+.thirdFloor_head>p{
+	width: 237px;
+	height: 37px;
+	background: #f08c18;
+	color: white;
+	text-align: center;
+	line-height: 37px;
+	border-radius: 5px 5px 0 0;
+}
+.thirdFloor_classify{
+	width: 1202px;
+	height: 420px;
+	overflow: hidden;
+}
+.thirdFloor_classify>div{
+	float: left;
+}
+.thirdFloorLeft{
+	width: 240px;
+	height: 420px;
+}
+.thirdFloorMid{
+	width: 740px;
+	height: 420px;
+}
+.upperPart>li{
+	float: left;
+	width: 185px;
+	height: 210px;
+}
+.upperPart>li img{
+	width: 140px;
+	height: 140px;
+	margin: 5px 0 0 23px;
+}
+.upperPartCon{
+	width: 185px;
+	height: 60px;
+}
+.upperPartCon>p{
+	width: 150px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	margin: 5px 0 5px 15px;
+}
+.upperPartCon>p>a{
+	color: #666666;
+}
+.priceWarp{
+	width: 160px;
+	height: 29px;
+	margin-left: 15px;
+}
+.price{
+	color: #ff9800;
+}
+.addCart{
+	display: inline-block;
+	width: 90px;
+	height: 25px;
+	text-align: center;
+	line-height: 25px;
+	background: #228B22;
+	border-radius: 5px;
+	float: right;
+	display: none;
+}
+.addCart>a{
+	color: white;
+	font-size: 14px;
+}
+.nextPart>li{
+	float: left;
+	width: 185px;
+	height: 210px;
+}
+.nextPart>li img{
+	width: 140px;
+	height: 140px;
+	margin: 5px 0 0 23px;
+}
+.nextPartCon{
+	width: 185px;
+	height: 60px
+}
+.titlesColor>a.on{
+	color: #4BAE00;
+}
+.nextPartCon>p{
+	width: 150px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	margin: 5px 0 5px 15px;
+}
+.nextPartCon>p>a{
+	color: #666666;
+}
+.thirdFloorRight{
+	width: 220px;
+	height: 420px;
+}
+.thirdFloor_Choose{
+	width: 220px;
+	height: 190px;
+	background: #f1f1f1;
+}
+.thirdFloor_Cake{
+	width: 220px;
+	height: 230px;
+}
+/*4F鲜花分类--------------------------------------------*/
+.fourthFloor{
+	width: 1202px;
+	height: 462px;
+	margin: 20px auto;
+}
+.fourthFloor_head{
+	width: 1202px;
+	height: 37px;
+	border-bottom: 2px solid #78b270;
+}
+.fourthFloor_head>p{
+	width: 237px;
+	height: 37px;
+	background: #78b270;
+	color: white;
+	text-align: center;
+	line-height: 37px;
+	border-radius: 5px 5px 0 0;
+}
+.fourthFloor_classify{
+	width: 1202px;
+	height: 420px;
+	overflow: hidden;
+}
+.fourthFloor_classify>div{
+	float: left;
+}
+.fourthFloorLeft{
+	width: 240px;
+	height: 420px;
+}
+.fourthFloorMid{
+	width: 740px;
+	height: 420px;
+}
+.upperPart>li{
+	float: left;
+	width: 185px;
+	height: 210px;
+}
+.upperPart>li img{
+	width: 140px;
+	height: 140px;
+	margin: 5px 0 0 23px;
+}
+.upperPartCon{
+	width: 185px;
+	height: 60px;
+}
+.upperPartCon>p{
+	width: 150px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	margin: 5px 0 5px 15px;
+}
+.upperPartCon>p>a{
+	color: #666666;
+}
+.priceWarp{
+	width: 160px;
+	height: 29px;
+	margin-left: 15px;
+}
+.price{
+	color: #ff9800;
+}
+.addCart{
+	display: inline-block;
+	width: 90px;
+	height: 25px;
+	text-align: center;
+	line-height: 25px;
+	background: #228B22;
+	border-radius: 5px;
+	float: right;
+	display: none;
+}
+.addCart>a{
+	color: white;
+	font-size: 14px;
+}
+.nextPart>li{
+	float: left;
+	width: 185px;
+	height: 210px;
+}
+.nextPart>li img{
+	width: 140px;
+	height: 140px;
+	margin: 5px 0 0 23px;
+}
+.nextPartCon{
+	width: 185px;
+	height: 60px
+}
+.titlesColor>a.on{
+	color: #4BAE00;
+}
+.nextPartCon>p{
+	width: 150px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	margin: 5px 0 5px 15px;
+}
+.nextPartCon>p>a{
+	color: #666666;
+}
+.fourthFloorRight{
+	width: 220px;
+	height: 420px;
+}
+.fourthFloor_Choose{
+	width: 220px;
+	height: 190px;
+	background: #f1f1f1;
+}
+.fourthFloor_Choose>a{
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	color: #77b272;
+	text-align: center;
+	line-height: 60px;
+	font-size: 12px;
+	background: white;
+	border-radius: 50%;
+	margin-top: 15px;
+	margin-left: 8px;
+	
+}
+.fourthFloor_Cake{
+	width: 220px;
+	height: 230px;
+}
+/*5浪漫组合-----------------------------------*/
+.fifthFloor{
+	width: 1202px;
+	height: 462px;
+	margin: 0 auto;
+}
+.fifthFloor_head{
+	width: 1202px;
+	height: 37px;
+	border-bottom: 2px solid #fa648c;
+}
+.fifthFloor_head>p{
+	width: 237px;
+	height: 37px;
+	background: #fa648c;
+	color: white;
+	text-align: center;
+	line-height: 37px;
+	border-radius: 5px 5px 0 0;
+}
+.fifthFloor_classify{
+	width: 1202px;
+	height: 420px;
+	overflow: hidden;
+}
+.fifthFloor_classify>div{
+	float: left;
+}
+.fifthFloorLeft{
+	width: 240px;
+	height: 420px;
+}
+.fifthFloorMid{
+	width: 740px;
+	height: 420px;
+}
+.upperPart>li{
+	float: left;
+	width: 185px;
+	height: 210px;
+}
+.upperPart>li img{
+	width: 140px;
+	height: 140px;
+	margin: 5px 0 0 23px;
+}
+.upperPartCon{
+	width: 185px;
+	height: 60px;
+}
+.upperPartCon>p{
+	width: 150px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	margin: 5px 0 5px 15px;
+}
+.upperPartCon>p>a{
+	color: #666666;
+}
+.priceWarp{
+	width: 160px;
+	height: 29px;
+	margin-left: 15px;
+}
+.price{
+	color: #ff9800;
+}
+.addCart{
+	display: inline-block;
+	width: 90px;
+	height: 25px;
+	text-align: center;
+	line-height: 25px;
+	background: #228B22;
+	border-radius: 5px;
+	float: right;
+	display: none;
+}
+.addCart>a{
+	color: white;
+	font-size: 14px;
+}
+.nextPart>li{
+	float: left;
+	width: 185px;
+	height: 210px;
+}
+.nextPart>li img{
+	width: 140px;
+	height: 140px;
+	margin: 5px 0 0 23px;
+}
+.nextPartCon{
+	width: 185px;
+	height: 60px
+}
+.titlesColor>a.on{
+	color: #4BAE00;
+}
+.nextPartCon>p{
+	width: 150px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	margin: 5px 0 5px 15px;
+}
+.nextPartCon>p>a{
+	color: #666666;
+}
+.fifthFloorRight{
+	width: 220px;
+	height: 420px;
+}
+.fifthFloor_Choose{
+	width: 220px;
+	height: 190px;
+	background: #f1f1f1;
+}
+.fifthFloor_Choose>a{
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	color: #fa648c;
+	text-align: center;
+	line-height: 60px;
+	font-size: 12px;
+	background: white;
+	border-radius: 50%;
+	margin-top: 15px;
+	margin-left: 8px;
+}
+.fifthFloor_Cake{
+	width: 220px;
+	height: 230px;
+}
+/*6F礼品公仔-------------------------------------*/
+.sixthFloor{
+	width: 1202px;
+	height: 462px;
+	margin: 20px auto;
+}
+.sixthFloor_head{
+	width: 1202px;
+	height: 37px;
+	border-bottom: 2px solid #ad96d9;
+}
+.sixthFloor_head>p{
+	width: 237px;
+	height: 37px;
+	background: #ad96d9;
+	color: white;
+	text-align: center;
+	line-height: 37px;
+	border-radius: 5px 5px 0 0;
+}
+.sixthFloor_classify{
+	width: 1202px;
+	height: 420px;
+	overflow: hidden;
+}
+.sixthFloor_classify>div{
+	float: left;
+}
+.sixthFloorLeft{
+	width: 240px;
+	height: 420px;
+}
+.sixthFloorMid{
+	width: 740px;
+	height: 420px;
+}
+.upperPart>li{
+	float: left;
+	width: 185px;
+	height: 210px;
+}
+.upperPart>li img{
+	width: 140px;
+	height: 140px;
+	margin: 5px 0 0 23px;
+}
+.upperPartCon{
+	width: 185px;
+	height: 60px;
+}
+.upperPartCon>p{
+	width: 150px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	margin: 5px 0 5px 15px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.upperPartCon>p>a{
+	color: #666666;
+	font-size: 14px;
+}
+.priceWarp{
+	width: 160px;
+	height: 29px;
+	margin-left: 15px;
+}
+.price{
+	color: #ff9800;
+}
+.addCart{
+	display: inline-block;
+	width: 90px;
+	height: 25px;
+	text-align: center;
+	line-height: 25px;
+	background: #228B22;
+	border-radius: 5px;
+	float: right;
+	display: none;
+}
+.addCart>a{
+	color: white;
+	font-size: 14px;
+}
+/*.nextPart>li{
+	float: left;
+	width: 185px;
+	height: 210px;
+	background: skyblue;
+}
+.nextPart>li img{
+	width: 140px;
+	height: 140px;
+	margin: 5px 0 0 23px;
+}
+.nextPartCon{
+	width: 185px;
+	height: 60px
+}
+.titlesColor>a.on{
+	color: #4BAE00;
+}
+.nextPartCon>p{
+	width: 150px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	margin: 5px 0 5px 15px;
+}
+.nextPartCon>p>a{
+	color: #666666;
+}*/
+.sixthFloorRight{
+	width: 220px;
+	height: 420px;
+}
+.sixthFloor_Choose{
+	width: 220px;
+	height: 190px;
+	background: #f1f1f1;
+}
+.sixthFloor_Choose>a{
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	color: #ad96d9;
+	text-align: center;
+	line-height: 60px;
+	font-size: 12px;
+	background: white;
+	border-radius: 50%;
+	margin-top: 15px;
+	margin-left: 8px;
+}
+.sixthFloor_Cake{
+	width: 220px;
+	height: 230px;
+}
